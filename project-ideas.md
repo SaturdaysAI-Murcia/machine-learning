@@ -48,3 +48,5 @@ Murcia es un destino gastrónomico estupendo. Ademas Murcia a sido catalogada co
 - Fast.ai
   - [share your work here](https://forums.fast.ai/t/share-your-work-here)
   - [share your work here (part 2)](https://forums.fast.ai/t/share-your-work-here-part-2)
+- Cyberseguridad
+  - [Awesome ML for cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
