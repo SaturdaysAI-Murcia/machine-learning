@@ -117,6 +117,9 @@
 
 -->
 
+## Falta: Modelos para imágenes y vídeo (redes neuronales convolucionales (CNNs)
+
+
 ## Top 3 best resources:
 1. [**Mlcourse.ai**](http://mlcourse.ai) (advanced)
 2. [**Kaggle learn**](https://www.kaggle.com/learn) (easy)
