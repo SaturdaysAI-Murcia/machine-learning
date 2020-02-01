@@ -4,7 +4,7 @@
 
 # 🗓️ Agenda
 
-| Sesión |  Día   | Tema                              | Ponente                          |
+| Sesión |  Día   | Tema                              | [Ponente](https://twitter.com/MurciaAi/status/1207224738059296768) |
 |:------:|--------|-----------------------------------|----------------------------------|
 | **1**  |  1 Feb | Introducción y presentaciones     | Torrubia, Palma y Sat. Madrid    |
 | **2**  |  8 Feb | EDA, Data preparation             |                                  |
