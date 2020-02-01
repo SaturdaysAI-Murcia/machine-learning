@@ -1,6 +1,27 @@
 <p align="center"><img width="50%" src="img/title.png" /></p>
 
 
+
+# 🗓️ Agenda
+
+| Sesión |  Día   | Tema                              | Ponente                          |
+|:------:|--------|-----------------------------------|----------------------------------|
+| **1**  |  1 Feb | Introducción y presentaciones     | Torrubia, Palma y Sat. Madrid    |
+| **2**  |  8 Feb | EDA, Data preparation             |                                  |
+| **3**  | 15 Feb | Regresión lineal y web scrapping  |                                  |
+| **4**  | 22 Feb | Tree based models                 |                                  |
+| **5**  | 29 Feb | NN y CNN                          |                                  |
+| **6**  |  7 Mar | Unsupervised Learning             |                                  |
+| **7**  | 14 Mar | NLP                               |                                  |
+| **8**  | 28 Mar | Biología y sanidad                |                                  |
+| **9**  |  4 Abr | Project                           |                                  |
+| **10** | 25 Abr | Project                           |                                  |
+| **11** |  9 May | Project                           |                                  |
+| **12** | 16 May | Comunicación Oral                 |                                  |
+| **13** | 23 May | Demo Day                          |                                  |
+
+
+
 <table>
   
   <!----------------------------------- 🐼 1. Pandas ----------------------------------->
