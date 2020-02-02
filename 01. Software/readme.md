@@ -73,12 +73,28 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
   <tr>
     <th><a href="http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html"><img src="img/H2O.png"/></a></th>
-    <td>H2o.ai es un framework de Machine Learning que implementa una función muy interesante llamada AutoML. AutoML es una abstracción que nos permite olvidarnos de elegir nosotros el mejor modelo para nuestros datos, ya que lo hace atomaticamente</td>
+    <td>H2o.ai es un framework de Machine Learning que implementa una función muy interesante llamada AutoML. AutoML es una abstracción que nos permite olvidarnos de elegir nosotros el mejor modelo para nuestros datos, ya que lo hace automáticamente.</td>
   </tr>
   
 </table>
 
 ## 5. Deep Learning Libraries
+
+
+<table>
+  <tr>
+    <th width="200"><a href="https://www.fast.ai"><img src="img/Fastai.png"/></a></th>
+    <td>Fast.ai es una librería ¡y un curso! dirigido por Jeremy Howard donde se pretende hacer el Deep Learning accesible a todo el mundo. Su librería, basada en Pytorch, tiene como máxima la simplicidad y facilitar el uso de los modelos más avanzados de redes neuronales.</td>
+  </tr>
+  <tr>
+    <th ><a href="https://keras.io"><img src="img/Keras.png"/></a></th>
+    <td>Keras es una librería popular de redes neuronales basesa en TensorFlow. Está especialmente diseñada para facilitar la creación de redes neuronales.</td>
+  </tr>
+  <tr>
+    <th><a href="https://matplotlib.org/gallery"><img src="img/Pytorch.svg"/></a></th>
+    <td>Es una librería de Deep Learning diseñada por Facebook. Muchos la consideran superior a Tensorflow por su flexibilidad y facilidad. Además permite su ejecución en GPU (y varias GPUs) para acelerar los cálculos. Es la libreria más usada entre investigadores para probar sus nuevos experimentos.</td>
+  </tr>
+</table>
 
 ## Others
 
