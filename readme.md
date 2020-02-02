@@ -6,7 +6,7 @@
 
 | Sesión |  Día   | Tema                              | [Ponente](https://twitter.com/MurciaAi/status/1207224738059296768) |
 |:------:|--------|-----------------------------------|----------------------------------|
-| **1**  |  1 Feb | Introducción y presentaciones     | Torrubia, Palma y Sat. Madrid    |
+| **1**  |  1 Feb | Introducción y presentaciones     | Pepe Palma y Andrés Torrubia     |
 | **2**  |  8 Feb | EDA, Data preparation             |                                  |
 | **3**  | 15 Feb | Regresión lineal y web scrapping  |                                  |
 | **4**  | 22 Feb | Tree based models                 |                                  |
