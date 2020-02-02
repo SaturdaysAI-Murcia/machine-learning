@@ -88,7 +88,7 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
   <tr>
     <th ><a href="https://keras.io"><img src="img/Keras.png"/></a></th>
-    <td>Keras es una librería popular de redes neuronales basesa en TensorFlow. Está especialmente diseñada para facilitar la creación de redes neuronales.</td>
+    <td>Keras es una librería popular de redes neuronales basada en TensorFlow. Está especialmente diseñada para facilitar la creación de redes neuronales.</td>
   </tr>
   <tr>
     <th><a href="https://matplotlib.org/gallery"><img src="img/Pytorch.png"/></a></th>
