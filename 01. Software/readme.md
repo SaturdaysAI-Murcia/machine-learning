@@ -65,7 +65,7 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
   <tr>
     <th><a href="https://lightgbm.readthedocs.io"><img src="img/LightGBM.png"/></a></th>
-    <td>LightGBM es otra implementación de Gradient boosting de Microsoft que deberíamos tener en cuenta ya que también ha obtenido muy buenos resultados en términos de precisión y rendimiento es.</td>
+    <td>LightGBM es otra implementación de Gradient boosting de Microsoft que deberíamos tener en cuenta ya que también ha obtenido muy buenos resultados en términos de precisión y rendimiento.</td>
   </tr>
   <tr>
     <th><a href="https://facebook.github.io/prophet"><img src="img/Prophet.png"/></a></th>
