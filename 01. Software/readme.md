@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <th width="200"><a href="www.python.org"><img src="img/Python.png"/></a></th>
+    <th width="200"><a href="https://www.python.org"><img src="img/Python.png"/></a></th>
     <td>Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.</td>
   </tr>
   <tr>
@@ -14,7 +14,7 @@
     <td>Jupyter Notebook es un entorno interactivo de Python, que se ejecuta de forma local en el navegador. En los cuadernos de Jupyter se puede incluir (en forma de celdas) tanto código Python, como gráficas y documentación en formato markdown que te ayuden en el análisis e explicación de tus datos.</td>
   </tr>
   <tr>
-    <th><a href="www.python.org"><img src="img/Colab.png"/></a></th>
+    <th><a href="https://colab.research.google.com/notebooks/welcome.ipynb"><img src="img/Colab.png"/></a></th>
     <td>Google Colab es un entorno gratuito de Jupyter Notebook que no requiere configuración y que se ejecuta completamente en la nube. Colabo te permite escribir y ejecutar código, guardar y compartir tus análisis y tener acceso a recursos informáticos muy potentes (GPUs y TPUs por tiempo limitado), todo de forma gratuita desde el navegador.</td>
   </tr>
 </table>
@@ -52,7 +52,31 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
 </table>
 
-## 4. Machine Learning Librarys
+## 4. Machine Learning Libraries
+
+<table>
+  <tr>
+    <th width="200"><a href="https://scikit-learn.org"><img src="img/Scikitlearn.png"/></a></th>
+    <td>Scikit-learn es probablemente la librería más útil para Machine Learning en Python, es de código abierto y es reutilizable en con otras librerías. Proporciona una gran gama de algoritmos de aprendizaje supervisados y no supervisados en Python.</td>
+  </tr>
+  <tr>
+    <th><a href="https://xgboost.readthedocs.io"><img src="img/XGBoost.png"/></a></th>
+    <td>XGBoost significa eXtreme Gradient Boosting, y es una implementación de Gradient boosting diseñada para minimizar la velocidad de ejecución y maximizar el rendimiento. Es uno de los algoritmos que más domina recientemente en los problemas Machine Learning y las competiciones de Kaggle con datos estructurados o tabulares.</td>
+  </tr>
+  <tr>
+    <th><a href="https://lightgbm.readthedocs.io"><img src="img/LightGBM.png"/></a></th>
+    <td>LightGBM es otra implementación de Gradient boosting de Microsoft que deberíamos tener en cuenta ya que también ha obtenido muy buenos resultados en términos de precisión y rendimiento es.</td>
+  </tr>
+  <tr>
+    <th><a href="https://lightgbm.readthedocs.io"><img src="img/LightGBM.png"/></a></th>
+    <td>LightGBM es otra implementación de Gradient boosting que deberíamos tener en cuenta ya que también ha obtenido muy buenos resultados en términos de precisión y rendimiento es.</td>
+  </tr>
+  <tr>
+    <th><a href="http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html"><img src="img/H2O.png"/></a></th>
+    <td>H2o.ai es un framework de Machine Learning que implementa una función muy interesante llamada AutoML. AutoML es una abstracción que nos permite olvidarnos de elegir nosotros el mejor modelo para nuestros datos, ya que lo hace atomaticamente</td>
+  </tr>
+  
+</table>
 
 ## 5. Deep Learning Libraries
 
