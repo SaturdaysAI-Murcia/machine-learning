@@ -6,8 +6,8 @@
 
 | Sesión |  Día   | Tema                              | [Ponente](https://twitter.com/MurciaAi/status/1207224738059296768) |
 |:------:|--------|-----------------------------------|----------------------------------|
-| **1**  |  1 Feb | Introducction                     | Pepe Palma y Andrés Torrubia     |
-| **2**  |  8 Feb | [Tabular data](/02.%20Tabula%20data)  |                                  |
+| **1**  |  1 Feb | [**Introducction**](/01.%20Software)  | Pepe Palma y Andrés Torrubia     |
+| **2**  |  8 Feb | [**Tabular data**](/02.%20Tabular%20data) |                              |
 | **3**  | 15 Feb | Regresión lineal y web scrapping  |                                  |
 | **4**  | 22 Feb | Tree based models                 |                                  |
 | **5**  | 29 Feb | NN y CNN                          |                                  |
