@@ -69,5 +69,6 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
    - [Deep learning avanzado](https://course.fast.ai/part2)
    - [NLP](https://www.fast.ai/2019/07/08/fastai-nlp)
 - [**Mlcourse.ai**](http://mlcourse.ai)
+- [**./missing-semester**](https://missing.csail.mit.edu): Curso sobre sistemas, no IA
 
 
