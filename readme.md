@@ -13,7 +13,7 @@
    - Random Forest
    - Gradient Boosting
    - Neural Network
-3. [**Tabular data 2 (regression)**](/2.%20Tabular%20data%20(regr))
+3. [**Tabular data 2 (regression)**](/3.%20Tabular%20data%20(regr))
    - Web scrapping
    - Clustering
    - Dimensionality reduction
