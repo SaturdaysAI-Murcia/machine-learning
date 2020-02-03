@@ -19,7 +19,7 @@ Murcia ha sido catalogada como una de las ciudades con peor aire, ayúdanos a bu
 
 `imagen satelite` `tabular`
 
-### 3. Murcia, que soleada eres!
+### 3. Eficiencia placas solares
 
 Murcia goza de una gran cantidad de dias de sol al año. Analiza la cantida de energía que se puede obtener según la zona geográfica y orientacion del edificio. Ésto nos servirá para calcular la amortización del uso de placas solares como fuente de energía renobable.
 
