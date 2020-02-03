@@ -3,24 +3,46 @@
 
 # 📒 Cuadernos
 
-1. [**Introducction to software**](/1.%20Software)
-   - Python and pip
-   - Jupyter notebook and Google Colab
-   - Pandas
-2. [**Tabular data 1 (clasification)**](/2.%20Tabular%20data%20(clas))
-   - EDA
-   - Decission Tree
-   - Random Forest
-   - Gradient Boosting
-   - Neural Network
-3. [**Tabular data 2 (regression)**](/3.%20Tabular%20data%20(regr))
-   - Web scrapping
-   - Clustering
-   - Dimensionality reduction
-   - Random Forest
-4. **NLP**
-5. **Vision**
-6. **Time series**
+<table>
+  <tr>
+    <th rowspan="3"><h3>💻<a href="/1.%20Software">1. Introducction to AI software</a></h3></th>
+    <td align="left"><a href="/1.%20Software/1.1%20Python.ipynb">🐍 Python</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.1%20Python.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="/02.%20EDA/2.2%20EDA%20teoria%20extra.ipynb">🔭 Jupyter and Colab</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/CSaturdaysAI-Murcia/machine-learnin/blob/master/02.%20EDA/2.2%20EDA%20teoria%20extra.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="/1.%20Software/1.2%20Pandas.ipynb">🐼 Pandas</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learnin/blob/master/1.%20Software/1.2%20Pandas.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+</table>   
+   
+<table>
+  <tr>
+    <th rowspan="5"><h3>📈<a href="/1.%20Software">2. Tabular data 1 (clasification)</a></h3></th>
+    <td align="left"><a href="/1.%20Software/2.1%20EDA%20teoria.ipynb">📊 EDA</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learnin/blob/master/02.%20EDA/2.1%20EDA%20teoria.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="/02.%20EDA/2.2%20EDA%20teoria%20extra.ipynb">🌳 Decission Tree</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learnin/blob/master/02.%20EDA/2.2%20EDA%20teoria%20extra.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="/02.%20EDA/2.3%20EDA%20ejercicio.ipynb">🌲 Random Forest</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learnin/blob/master/02.%20EDA/2.3%20EDA%20ejercicio.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr> 
+  <tr>
+    <td align="left"><a href="/02.%20EDA/2.3%20EDA%20ejercicio.ipynb">🌴 Gradient Boosting</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learnin/blob/master/02.%20EDA/2.3%20EDA%20ejercicio.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="/02.%20EDA/2.3%20EDA%20ejercicio.ipynb">🧠 Neural Network</a></td>
+    <td align="left"><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learnin/blob/master/02.%20EDA/2.3%20EDA%20ejercicio.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+</table> 
+
 
 # 🗓️ Agenda
 
