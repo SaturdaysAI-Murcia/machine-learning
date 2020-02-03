@@ -6,18 +6,18 @@
 
 | Sesión |  Día   | Tema                              | [Ponente](https://twitter.com/MurciaAi/status/1207224738059296768) |
 |:------:|--------|-----------------------------------|----------------------------------|
-| **1**  |  1 Feb | [**Introducction**](/01.%20Software)  | Pepe Palma y Andrés Torrubia     |
-| **2**  |  8 Feb | [**Tabular data**](/02.%20Tabular%20data) |                              |
-| **3**  | 15 Feb | Regresión lineal y web scrapping  |                                  |
-| **4**  | 22 Feb | Tree based models                 |                                  |
-| **5**  | 29 Feb | NN y CNN                          |                                  |
-| **6**  |  7 Mar | Unsupervised Learning             |                                  |
-| **7**  | 14 Mar | NLP                               |                                  |
-| **8**  | 28 Mar | Biología y sanidad                |                                  |
+| **1**  |  1 Feb | [**Introducction**](/01.%20Software)  | Pepe Palma y Andrés Torrubia |
+| **2**  |  8 Feb | [**Tabular data (classification)**](/02.%20Tabular%20data) |         |
+| **3**  | 15 Feb | Tabular data (regression) + Web scrapping   |                        |
+| **4**  | 22 Feb | Unsupervised Learning             |                                  |
+| **5**  | 29 Feb | NLP                               |                                  |
+| **6**  |  7 Mar | Vision                            |                                  |
+| **7**  | 14 Mar | Project                           |                                  |
+| **8**  | 28 Mar | Project + Biología y sanidad      |                                  |
 | **9**  |  4 Abr | Project                           |                                  |
-| **10** | 25 Abr | Project                           |                                  |
+| **10** | 25 Abr | Project + Ética en la IA          |                                  |
 | **11** |  9 May | Project                           |                                  |
-| **12** | 16 May | Comunicación Oral                 |                                  |
+| **12** | 16 May | Project + Comunicación Oral       |                                  |
 | **13** | 23 May | Demo Day                          |                                  |
 
 

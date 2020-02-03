@@ -1,6 +1,8 @@
+# Tree based models
 
-
-
+- Single tree -> Decission Tree
+- Average of trees -> Random Forest & Extra Trees
+- Concatenation of trees -> Gradient boosting
 
 ## [Jeremy Howard on twitter](https://twitter.com/jeremyphoward/status/1223777020934361088): Our advice for tabular modeling
 
