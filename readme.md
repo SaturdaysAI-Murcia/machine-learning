@@ -1,13 +1,33 @@
 <p align="center"><img width="50%" src="img/title.png" /></p>
 
 
+# 📒 Cuadernos
 
-# 🗓️ Agenda y material
+1. [**Introducction to software**](/1.%20Software)
+   - Python and pip
+   - Jupyter notebook and Google Colab
+   - Pandas
+2. [**Tabular data 1 (clasification)**](/2.%20Tabular%20data%20(clas))
+   - EDA
+   - Decission Tree
+   - Random Forest
+   - Gradient Boosting
+   - Neural Network
+3. [**Tabular data 2 (regression)**](/2.%20Tabular%20data%20(regr))
+   - Web scrapping
+   - Clustering
+   - Dimensionality reduction
+   - Random Forest
+4. **NLP**
+5. **Vision**
+6. **Time series**
+
+# 🗓️ Agenda
 
 | Sesión |  Día   | Tema                              | [Ponente](https://twitter.com/MurciaAi/status/1207224738059296768) |
 |:------:|--------|-----------------------------------|----------------------------------|
-| **1**  |  1 Feb | [**Introducction**](/01.%20Software)  | Pepe Palma y Andrés Torrubia |
-| **2**  |  8 Feb | [**Tabular data (classification) + EDA**](/02.%20Tabular%20data)  |  |
+| **1**  |  1 Feb | [**Introducction**](/1.%20Software)  | Pepe Palma y Andrés Torrubia |
+| **2**  |  8 Feb | [**Tabular data (classification) + EDA**](/2.%20Tabular%20data%20(clas))  |  |
 | **3**  | 15 Feb | Tabular data (regression) + Web scrapping   |                        |
 | **4**  | 22 Feb | Time series + Unsupervised Learning |                                |
 | **5**  | 29 Feb | NLP                               |                                  |
