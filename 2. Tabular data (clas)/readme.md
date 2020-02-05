@@ -25,4 +25,9 @@ From that foundation, you can try neural nets and GBMs, and if they give you sig
 
 ### Random Forest
 
-![](img/RandomForest.png)
+<p align="center"><img width="50%" src="img/RandomForest.png" /></p>
+
+### Gradient Boosting
+
+<p align="center"><img width="50%" src="img/GradientBoosting.png" /></p>
+
