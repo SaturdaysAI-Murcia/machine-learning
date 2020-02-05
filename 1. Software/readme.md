@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th width="200"><a href="https://www.python.org"><img src="img/Python.png"/></a></th>
-    <td>Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Aprendes más en [asdfa](https://www.kaggle.com/learn/python)</td>
+    <td>Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Aprende más en <a href="https://www.kaggle.com/learn/python">Kaggle learn</a></td>
   </tr>
   <tr>
     <th><a href="https://jupyter.org"><img height="100" src="img/Jupyter.png"/></a></th>
@@ -26,7 +26,7 @@
     <th width="200"><a href="https://pandas.pydata.org"><img src="img/Pandas.png"/></a></th>
     <td>Pandas es un paquete de Python que proporciona estructuras de datos para el manejo de datasets o dataframes. Pandas depende de Numpy, la librería que añade eficiencia numérica en Python. Los principales tipos de datos que pueden representarse con pandas son los datos tabulares con columnas (llamadas variables) y muchas filas. También se pueden representar series temporales.
 <br><br>
-Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,...) y la  manipulacion de datos como seleccionar y filtrar datos en función de posición, valor o etiquetas, fusionar y unir datos, transformar datos aplicando funciones tanto en global como por ventanas, manipulación de series temporales, hacer gráficas y mucho más.
+Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,...) y la  manipulacion de datos como seleccionar y filtrar datos en función de posición, valor o etiquetas, fusionar y unir datos, transformar datos aplicando funciones tanto en global como por ventanas, manipulación de series temporales, hacer gráficas y mucho más. Aprende más en <a href="https://www.kaggle.com/learn/pandas">Kaggle learn</a>
 </td>
   </tr>
 </table>
