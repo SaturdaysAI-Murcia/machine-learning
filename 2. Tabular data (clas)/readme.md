@@ -26,9 +26,11 @@ In theory are just as fast to train as random forests, but in practice you will 
 <p align="center"><img width="50%" src="img/GradientBoosting.png" /></p>
 
 
-### Neural networks
+### Neural Network
 
 Take the longest time to train, and require extra preprocessing such as normalisation; this normalisation needs to be used at inference time as well. They can provide great results, and extrapolate well, but only if you are careful with your hyperparameters, and are careful to avoid overfitting.
+
+<p align="center"><img width="80%" src="img/NeuralNet.png" /></p>
 
 ### Conclusion
 
