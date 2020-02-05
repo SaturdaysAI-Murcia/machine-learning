@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th width="200"><a href="https://www.python.org"><img src="img/Python.png"/></a></th>
-    <td>Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.</td>
+    <td>Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Aprendes más en [asdfa](https://www.kaggle.com/learn/python)</td>
   </tr>
   <tr>
     <th><a href="https://jupyter.org"><img height="100" src="img/Jupyter.png"/></a></th>
