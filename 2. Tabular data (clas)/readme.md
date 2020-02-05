@@ -3,16 +3,11 @@
 ## Models
 | Model                 | Comment                              | Library                    | More info |
 |:---------------------:|--------------------------------------|----------------------------|-----------|
+| **Decission Tree**    | Simple and explicable.               | Sklearn                    |           |
+| **Linear models**     | Simple and explicable.               | Sklearn                    |           |
 | **Random Forest**     | Good starting point (tree enesemble) | Sklearn                    |           |
 | **Gradient Boosting** | Usually the best (tree enesemble)    | XGBoost, LighGBM, Catboost |           |
 | **Neural Network**    | Good if lot of data.                 | Fast.ai v2                 | [blog](https://hackernoon.com/gain-state-of-the-art-results-on-tabular-data-with-deep-learning-and-embedding-layers-a-how-to-guide-r17b36k8) |
-
-> #### Simple models with good explainabiliy
->
-> | Model                 | Comment                                        | More info |
-> |:---------------------:|------------------------------------------------|-----------|
-> | **Decission Tree**    | The branches of the tree shows the decissions. | |
-> | **Linear models**     | Each varibla is multiplied by a weight         | |
 
 ## [Jeremy Howard on twitter](https://twitter.com/jeremyphoward/status/1223777020934361088): Our advice for tabular modeling
 
@@ -27,3 +22,7 @@ We have two approaches to tabular modelling: decision tree ensembles, and neural
 We suggest starting your analysis with a random forest. This will give you a strong baseline, and you can be confident that it's a reasonable starting point. You can then use that model for feature selection and partial dependence analysis, to get a better understanding of your data.
 
 From that foundation, you can try neural nets and GBMs, and if they give you significantly better results on your validation set in a reasonable amount of time, you can use them.
+
+### Random Forest
+
+![](img/RandomForest.png)
