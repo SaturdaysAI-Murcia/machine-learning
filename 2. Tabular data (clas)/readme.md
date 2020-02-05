@@ -1,8 +1,18 @@
-# Tree based models
+<h1 align="center">Tabular data </h1>
 
-- Single tree -> Decission Tree
-- Average of trees -> Random Forest & Extra Trees
-- Concatenation of trees -> Gradient boosting
+## Models
+| Model                 | Comment                              | Library                    | More info |
+|:---------------------:|--------------------------------------|----------------------------|-----------|
+| **Random Forest**     | Good starting point (tree enesemble) | Sklearn                    |           |
+| **Gradient Boosting** | Usually the best (tree enesemble)    | XGBoost, LighGBM, Catboost |           |
+| **Neural Network**    | Good if lot of data.                 | Fast.ai v2                 | [blog](https://hackernoon.com/gain-state-of-the-art-results-on-tabular-data-with-deep-learning-and-embedding-layers-a-how-to-guide-r17b36k8) |
+
+> #### Simple models with good explainabiliy
+>
+> | Model                 | Comment                                        | More info |
+> |:---------------------:|------------------------------------------------|-----------|
+> | **Decission Tree**    | The branches of the tree shows the decissions. | |
+> | **Linear models**     | Each varibla is multiplied by a weight         | |
 
 ## [Jeremy Howard on twitter](https://twitter.com/jeremyphoward/status/1223777020934361088): Our advice for tabular modeling
 
