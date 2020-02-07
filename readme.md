@@ -37,26 +37,42 @@
     <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb">🧠 Neural Network</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
-</table> 
+</table>
+
+
+> ## Next Sessions:
+> 3. 📉 Tabular data 2 (regression)
+>    - 🌐 Web scrapping (Beautiful soup)
+>    - ✨ Clustering (K-Means, DBSCAN)
+>    - 🌀 Dimensionality Reduction (PCA, t-SNE, UMAP)
+> 4. 🔤 Natual Language Processing
+>    - 🛠 Feature engeeering for NLP
+>    - 📋 Tf-idf
+> 5. 🕐 Time series
+>    - 🛠 Feature engeeering for time
+>    - 🔮 ARIMA, (Facebook Prophet)
+> 6. 👀 Vision
+>    - 🖼 Understanding images
+>    - 🔍 Convolutional Neural Network (Fastai)
 
 
 # 🗓️ Agenda
 
-| Sesión |  Día   | Tema                              | [Ponente](https://twitter.com/MurciaAi/status/1207224738059296768) |
-|:------:|--------|-----------------------------------|----------------------------------|
-| **1**  |  1 Feb | [**Introducction**](/1.%20Software)  | Pepe Palma y Andrés Torrubia |
-| **2**  |  8 Feb | [**Tabular data (classification) + EDA**](/2.%20Tabular%20data%20(clas))  |  |
-| **3**  | 15 Feb | Tabular data (regression) + Web scrapping   |                        |
-| **4**  | 22 Feb | Time series + Unsupervised Learning |                                |
-| **5**  | 29 Feb | NLP                               |                                  |
-| **6**  |  7 Mar | Vision                            |                                  |
-| **7**  | 14 Mar | Project                           |                                  |
-| **8**  | 28 Mar | Project + Biología y sanidad      |                                  |
-| **9**  |  4 Abr | Project                           |                                  |
-| **10** | 25 Abr | Project + Ética en la IA          |                                  |
-| **11** |  9 May | Project                           |                                  |
-| **12** | 16 May | Project + Comunicación Oral       |                                  |
-| **13** | 23 May | Demo Day                          |                                  |
+| Sesión |  Día   | Tema               | Charla                           | Reto                  |
+|:------:|--------|:------------------:|----------------------------------|-----------------------|
+| **1**  |  1 Feb | **AI Software**    | Pepe Palma y Andrés Torrubia     |                       |  
+| **2**  |  8 Feb | **Tabular data 1** |                                  | 🍻 Beer Challenge     |
+| **3**  | 15 Feb | **Tabular data 2** |                                  | 🚗 Car pricing        |
+| **4**  | 22 Feb | **NLP**            |                                  | 🙃 Sentiment analysis |
+| **5**  | 29 Feb | **Time series**    |                                  | (aun por decidir)     |
+| **6**  |  7 Mar | **Vision**         |                                  | 📷 Google Images      |
+| **7**  | 14 Mar | **Project**        |                                  |                       |
+| **8**  | 28 Mar | **Project**        | Biología y sanidad               |                       |
+| **9**  |  4 Abr | **Project**        |                                  |                       |
+| **10** | 25 Abr | **Project**        | Ética en la IA                   |                       |
+| **11** |  9 May | **Project**        |                                  |                       |
+| **12** | 16 May | **Project**        | Comunicación Oral                |                       |
+| **13** | 23 May | **Demo Day**       | Exposición de los proyectos      |                       |
 
 ## 🛠 Projects
 Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md)
