@@ -5,13 +5,17 @@
 
 <table>
   <tr>
-    <th width="50%" rowspan="3"><h3>💻<a href="/1.%20Software">1. Introducction to AI software</a></h3></th>
+    <th width="50%" rowspan="4"><h3>💻<a href="/1.%20Software">1. Introducction to AI software</a></h3></th>
     <td width="30%"><a href="/1.%20Software/1.1%20Python.ipynb">🐍 Python</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.1%20Python.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
     <td><a href="/1.%20Software/1.2%20Pandas.ipynb">🐼 Pandas</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.2%20Pandas.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/1.%20Software/1.3%20Seaborn.ipynb">📊 Seaborn</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.3%20Seaborn.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://www.kaggle.com/learn/intermediate-machine-learning">💡 Scikit-learn</a></td>
