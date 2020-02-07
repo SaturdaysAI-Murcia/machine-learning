@@ -62,7 +62,7 @@
 | Sesión |  Día   | Tema               | Charla                           | Reto                  |
 |:------:|--------|:------------------:|----------------------------------|-----------------------|
 | **1**  |  1 Feb | **AI Software**    | [Pepe Palma](/diapositivas/PepePalma.pdf) y Andrés Torrubia | |  
-| **2**  |  8 Feb | **Tabular data 1** |                                  | 🍺 Beer Challenge     |
+| **2**  |  8 Feb | **Tabular data 1** |       | [🍺 **Beer Challenge**](https://www.kaggle.com/c/murcia-beer-challenge) |
 | **3**  | 15 Feb | **Tabular data 2** |                                  | 🚗 Car pricing        |
 | **4**  | 22 Feb | **NLP**            |                                  | 🙃 Sentiment analysis |
 | **5**  | 29 Feb | **Time series**    |                                  | (aun por decidir)     |
