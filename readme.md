@@ -14,8 +14,8 @@
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.2%20Pandas.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/1.%20Software/1.3%20Sklearn.ipynb">💡 Scikit-learn</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.3%20Sklearn.ipynb"><img src="img/colab.svg"/></a></td>
+    <td><a href="https://www.kaggle.com/learn/intermediate-machine-learning">💡 Scikit-learn</a></td>
+    <td><a href="https://www.kaggle.com/learn/intermediate-machine-learning"><img src="img/colab.svg"/></a></td>
   </tr>
 </table>   
    
