@@ -62,7 +62,7 @@
 | Sesión |  Día   | Tema               | Charla                           | Reto                  |
 |:------:|--------|:------------------:|----------------------------------|-----------------------|
 | **1**  |  1 Feb | **AI Software**    | [Pepe Palma](/diapositivas/PepePalma.pdf) y Andrés Torrubia | |  
-| **2**  |  8 Feb | **Tabular data 1** |       | [🍺 **Beer Challenge**](https://www.kaggle.com/c/murcia-beer-challenge) |
+| **2**  |  8 Feb | **Tabular data 1** | Projects brainstorming | [🍺 **Beer Challenge**](https://www.kaggle.com/c/murcia-beer-challenge) |
 | **3**  | 15 Feb | **Tabular data 2** |                                  | 🚗 Car pricing        |
 | **4**  | 22 Feb | **NLP**            |                                  | 🙃 Sentiment analysis |
 | **5**  | 29 Feb | **Time series**    |                                  | (aun por decidir)     |
@@ -79,13 +79,19 @@
 Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md)
 
 ## 📚 Best resources:
-- [**Kaggle learn**](https://www.kaggle.com/learn)
-- [**Fast.ai**](https://www.fast.ai)
+- [**Kaggle learn**](https://www.kaggle.com/learn) (⌛: Quick)
+  - [Python](https://www.kaggle.com/learn/python)
+  - [Pandas](https://www.kaggle.com/learn/pandas)
+  - [Data visualization](https://www.kaggle.com/learn/data-visualization)
+  - [Intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+  - [Intermediate machine learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+  - [Feature engineering](https://www.kaggle.com/learn/feature-engineering)
+- [**Fast.ai**](https://www.fast.ai) (⌛: Medium)
    - [Machine Learning](http://course18.fast.ai/ml)
    - [Deep learning práctico](https://course.fast.ai)
    - [Deep learning avanzado](https://course.fast.ai/part2)
    - [NLP](https://www.fast.ai/2019/07/08/fastai-nlp)
-- [**Mlcourse.ai**](http://mlcourse.ai)
+- [**Mlcourse.ai**](http://mlcourse.ai) (⌛: Long)
   - [Medium articles](https://medium.com/open-machine-learning-course)
 - [**./missing-semester**](https://missing.csail.mit.edu): Curso sobre sistemas, no IA
 
