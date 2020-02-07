@@ -48,9 +48,10 @@
 > 4. 🔤 Natual Language Processing
 >    - 🛠 Feature engeeering for NLP
 >    - 📋 Tf-idf
+>    - 💬 Word embeddings
 > 5. 🕐 Time series
 >    - 🛠 Feature engeeering for time
->    - 🔮 ARIMA, (Facebook Prophet)
+>    - 🔮 ARIMA (Facebook Prophet)
 > 6. 👀 Vision
 >    - 🖼 Understanding images
 >    - 🔍 Convolutional Neural Network (Fastai)
@@ -61,7 +62,7 @@
 | Sesión |  Día   | Tema               | Charla                           | Reto                  |
 |:------:|--------|:------------------:|----------------------------------|-----------------------|
 | **1**  |  1 Feb | **AI Software**    | Pepe Palma y Andrés Torrubia     |                       |  
-| **2**  |  8 Feb | **Tabular data 1** |                                  | 🍻 Beer Challenge     |
+| **2**  |  8 Feb | **Tabular data 1** |                                  | 🍺 Beer Challenge     |
 | **3**  | 15 Feb | **Tabular data 2** |                                  | 🚗 Car pricing        |
 | **4**  | 22 Feb | **NLP**            |                                  | 🙃 Sentiment analysis |
 | **5**  | 29 Feb | **Time series**    |                                  | (aun por decidir)     |
@@ -72,7 +73,7 @@
 | **10** | 25 Abr | **Project**        | Ética en la IA                   |                       |
 | **11** |  9 May | **Project**        |                                  |                       |
 | **12** | 16 May | **Project**        | Comunicación Oral                |                       |
-| **13** | 23 May | **Demo Day**       | Exposición de los proyectos      |                       |
+| **13** | 23 May | **Demo Day**       | Vosotros ;)                      |                       |
 
 ## 🛠 Projects
 Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md)
