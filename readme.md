@@ -101,6 +101,8 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
    - [NLP](https://www.fast.ai/2019/07/08/fastai-nlp)
 - [**Mlcourse.ai**](http://mlcourse.ai) (⌛: Long)
   - [Medium articles](https://medium.com/open-machine-learning-course)
+- **Coursera**
+  - [Competitive data science](https://www.coursera.org/learn/competitive-data-science)
 - [**./missing-semester**](https://missing.csail.mit.edu): Curso sobre sistemas, no IA
 
 
