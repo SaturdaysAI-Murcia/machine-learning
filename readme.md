@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2></th>
+    <th width="40%" rowspan="5"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/titanic">Titanic</a></h3></th>
     <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA: Simple</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
@@ -53,8 +53,7 @@
 
 <table>
   <tr>
-    <th width="40%" rowspan="6"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a> 
-    </h3></th>
+    <th width="40%" rowspan="6"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a></h3></th>
     <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA: Simple</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
