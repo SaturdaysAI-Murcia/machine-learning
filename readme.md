@@ -25,10 +25,14 @@
    
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2></th>
-    <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA</a></td>
+    <th width="40%" rowspan="6"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2></th>
+    <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA: Simple</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
+  <tr>
+    <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌀 EDA: Dimensionality Reduction</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>  
   <tr>
     <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌳 Decission Tree Classifier</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb"><img src="img/colab.svg"/></a></td>
@@ -42,7 +46,7 @@
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb">🧠 Neural Network</a></td>
+    <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb">🧠 Neural Network Classifier</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
 </table>
@@ -50,7 +54,7 @@
 
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a> 
+    <th width="40%" rowspan="4"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a> 
     </h3></th>
     <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📏 Linear Regression</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
@@ -58,10 +62,6 @@
   <tr>
     <td><a href="/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb">📏 Logistic Regression</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb"><img src="img/colab.svg"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌀 Dimensionality Reduction</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
     <td><a href="/2.%20Tabular%20data%20(clas)/2.3%20Random%20Forest.ipynb">✨ Clustering (K-Means, DBSCAN)</a></td>
