@@ -50,7 +50,7 @@
 
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2>📉<a href="/2.%20Tabular%20data%20(clas)">3. Tabular data 2</a></h2><h3>(Regression)<br>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a> 
+    <th width="40%" rowspan="5"><h2>📉<a href="/2.%20Tabular%20data%20(clas)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a> 
     </h3></th>
     <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📏 Linear Regression</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
