@@ -1,6 +1,14 @@
 <h1 align="center">Tabular data </h1>
 
 
+## Type of features
+- **Numerical**: Números enteros o decimales: Ej: *Edad*, *medidas*, *precios*, ...
+- **Categorical**:
+- **Ordinal**: Categorias con orden. No podemos asegurar que los intervalos son iguales. Ej: *Carnet de conducir*, *nivel de educación*, *tipo de ticket*
+- **Text**:
+- **Date (Time)**:
+- **Coordinates (Space)**:
+
 ## Feature preprocessing
 
 
@@ -31,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <th>Categorical</th>
+    <th>Categorical<br>Ordinal</th>
     <td>
       <ul>
         <li>Label encoding</li>
@@ -62,6 +70,13 @@
     </td>
   </tr>
 </table>
+
+## Feature generation: CREATIVITY + DOMOAIN KNOWLEDGE
+
+- Si tienes el precio de la casa y los metros cuadrados, puedes añadir el precio del metro cuadrado.
+- Si tines la distancia en el eje x e y, puedes añadir la distancia directa por pitagoras.
+- Si tines precios, puedes añanir la parte fraccionaria pq es muy subjetiva en la gente.
+
 
 ## Models
 | Model                 | Comment                              | Library                    | More info |
