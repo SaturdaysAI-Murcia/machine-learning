@@ -1,5 +1,47 @@
 <h1 align="center">Tabular data </h1>
 
+
+## Feature preprocessing
+
+
+<table>
+  <tr>
+    <tD></tD>
+    <tD>
+      <h4>Tree based models</h4>
+      <ul>
+        <li>Decission tree</li>
+        <li>Random Forest</li>
+        <li>Extra tress</li>
+        <li>Adaboost</li>
+        <li>Gradient Boosting</li>
+        <li>XGBoost</li>
+        <li>LightGBM</li>
+        <li>CatBoost</li>
+      </ul>
+    </tD>
+    <td>
+      <h4>No-tree based models</h4>
+      <ul>
+        <li>Linear Models</li>
+        <li>Neural Networks</li>
+        <li>K-Nearest Neighbors</li>
+        <li>Suport Vector Machines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Categorical</th>
+    <td>Label encoding</td>
+    <td>One hot encoding (embedding)</td>
+  </tr>
+  <tr>
+    <th>Numerical</th>
+    <td>Nothing</td>
+    <td>Normalize</td>
+  </tr>
+</table>
+
 ## Models
 | Model                 | Comment                              | Library                    | More info |
 |:---------------------:|--------------------------------------|----------------------------|-----------|
