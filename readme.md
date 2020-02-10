@@ -5,8 +5,8 @@
 
 <table>
   <tr>
-    <th width="50%" rowspan="4"><h3>💻<a href="/1.%20Software">1. Introducction to AI software</a></h3></th>
-    <td width="30%"><a href="/1.%20Software/1.1%20Python.ipynb">🐍 Python</a></td>
+    <th width="40%" rowspan="4"><h3>💻<a href="/1.%20Software">1. Introducction<br>to AI software</a></h3></th>
+    <td width="40%"><a href="/1.%20Software/1.1%20Python.ipynb">🐍 Python</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/1.%20Software/1.1%20Python.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
@@ -25,8 +25,8 @@
    
 <table>
   <tr>
-    <th width="50%" rowspan="5"><h3>📈<a href="/2.%20Tabular%20data%20(clas)">2. Tabular data 1<br>(Clasification)</a></h3></th>
-    <td width="30%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA</a></td>
+    <th width="40%" rowspan="5"><h3>📈<a href="/2.%20Tabular%20data%20(clas)">2. Tabular data 1<br>(Clasification)</a></h3></th>
+    <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌀 Dimensionality Reduction (PCA, t-SNE, UMAP)</a></td>
+    <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌀 Dimensionality Reduction</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
@@ -74,17 +74,17 @@
 
 
 > ## Next Sessions:
-> 3. 🗄 Create your dataset
+> 4. 🗄 Create your dataset
 >    - 🌐 Web scrapping (Beautiful soup)
 >    - 🖼 Google Images
-> 4. 🔤 Natual Language Processing
+> 5. 🔤 Natual Language Processing
 >    - 🛠 Feature engeeering for NLP
 >    - 📋 Tf-idf
 >    - 💬 Word embeddings
-> 5. 🕐 Time series
+> 6. 🕐 Time series
 >    - 🛠 Feature engeeering for time
 >    - 🔮 ARIMA (Facebook Prophet)
-> 6. 👀 Vision
+> 7. 👀 Vision
 >    - 🖼 Understanding images
 >    - 🔍 Convolutional Neural Network (Fastai)
 
