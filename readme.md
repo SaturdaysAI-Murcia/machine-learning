@@ -87,7 +87,7 @@
 > 5. 🔤 Natual Language Processing
 >    - 🛠 Feature engeeering for NLP
 >    - 🛍️ Bag of words (CountVectorizer)
->    - 📋 Tf-idf
+>    - 📋 Tf-idf (TfidfVectorizer)
 >    - 💬 Word embeddings
 > 6. 🕐 Time series
 >    - 🛠 Feature engeeering for time
