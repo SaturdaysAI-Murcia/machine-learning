@@ -32,11 +32,16 @@
   </tr>
   <tr>
     <th>Categorical</th>
-    <td>Label encoding</td>
+    <td>
+      <ul>
+        <li>Label encoding</li>
+        <li>Frequency encoding</li>
+      </ul>
+    </td>
     <td>
       <ul>
         <li>One hot encoding</li>
-        <li>embedding</li>
+        <li>Embedding</li>
       </ul>
     </td>
   </tr>
@@ -47,6 +52,12 @@
       <ul>
         <li>MinMaxScaler</li>
         <li>StandarScaler</li>
+        <li>Skewed?
+          <ul>
+            <li>np.log(1+x)</li>
+            <li>np.sqrt(x+2/3)</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
