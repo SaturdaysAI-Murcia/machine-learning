@@ -12,7 +12,7 @@
       <ul>
         <li>Decission tree</li>
         <li>Random Forest</li>
-        <li>Extra tress</li>
+        <li>Extra trees</li>
         <li>Adaboost</li>
         <li>Gradient Boosting</li>
         <li>XGBoost</li>
@@ -33,12 +33,22 @@
   <tr>
     <th>Categorical</th>
     <td>Label encoding</td>
-    <td>One hot encoding (embedding)</td>
+    <td>
+      <ul>
+        <li>One hot encoding</li>
+        <li>embedding</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>Numerical</th>
     <td>Nothing</td>
-    <td>Normalize</td>
+    <td>
+      <ul>
+        <li>MinMaxScaler</li>
+        <li>StandarScaler</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
