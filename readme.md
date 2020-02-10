@@ -86,6 +86,7 @@
 >    - 🖼 Google Images
 > 5. 🔤 Natual Language Processing
 >    - 🛠 Feature engeeering for NLP
+>    - 🛍️ Bag of words (CountVectorizer)
 >    - 📋 Tf-idf
 >    - 💬 Word embeddings
 > 6. 🕐 Time series
