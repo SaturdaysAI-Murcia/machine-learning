@@ -22,7 +22,9 @@
     <td><a href="https://www.kaggle.com/learn/intermediate-machine-learning"><img src="img/colab.svg"/></a></td>
   </tr>
 </table>   
-   
+
+<br>
+
 <table>
   <tr>
     <th width="40%" rowspan="5"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2></th>
@@ -47,7 +49,7 @@
   </tr>
 </table>
 
-
+<br>
 
 <table>
   <tr>
