@@ -1,6 +1,9 @@
 <p align="center"><img width="50%" src="img/title.png" /></p>
 
 
+# 🛠 Projects
+Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md).
+
 # 📒 Cuadernos
 
 <table>
@@ -115,8 +118,6 @@
 | **12** | 16 May | **Project**        | Comunicación Oral                |                       |
 | **13** | 23 May | **Demo Day**       | Vosotros ;)                      |                       |
 
-## 🛠 Projects
-Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md)
 
 ## 📚 Best resources:
 - [**Kaggle learn**](https://www.kaggle.com/learn) (⌛: Quick)
