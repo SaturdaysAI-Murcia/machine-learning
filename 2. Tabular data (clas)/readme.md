@@ -27,8 +27,11 @@
 # Feature preprocessing
 
 
-## One-hot Encoding
-![](one-hot-encoding.png)
+### Label Encoding
+![](img/label-encoding.png)
+
+### One-hot Encoding
+![](img/one-hot-encoding.png)
 
 ## Feature generation: CREATIVITY + DOMOAIN KNOWLEDGE
 
@@ -68,6 +71,13 @@ In theory are just as fast to train as random forests, but in practice you will 
 Take the longest time to train, and require extra preprocessing such as normalisation; this normalisation needs to be used at inference time as well. They can provide great results, and extrapolate well, but only if you are careful with your hyperparameters, and are careful to avoid overfitting.
 
 <p align="center"><img width="80%" src="img/NeuralNet.png" /></p>
+
+
+# Validation
+
+### Cross Validation
+![](img/cross-validation.png)
+
 
 # Conclussion
 
