@@ -48,12 +48,12 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb">📏 Logistic Regression</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.4%20Gradient%20Boosting.ipynb"><img src="img/colab.svg"/></a></td>
+    <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Logistic%20Regression.ipynb">📏 Logistic Regression</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.5%20Logistic%20Regression.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb">🧠 Neural Network Classifier</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb"><img src="img/colab.svg"/></a></td>
+    <td><a href="/2.%20Tabular%20data%20(clas)/2.6%20Neural%20Network.ipynb">🧠 Neural Network Classifier</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.6%20Neural%20Network.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
 </table>
 
