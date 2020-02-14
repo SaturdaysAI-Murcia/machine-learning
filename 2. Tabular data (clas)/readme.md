@@ -5,33 +5,42 @@
 
 
 
-### Index
-
-- Feature preprocessing
-- Models
-- Validation
-- Classification metrics
-- [**Conclussion**](#conclussion)
+> ### Index
+>
+> - Feature preprocessing
+>   - [**Categorical**](#categorical-features)
+>   - [**Numerical**](#numerical-features)
+>   - [**Ordinal**](#ordinal-features)
+>   - **Text**: *Ver sesión de NLP*
+>   - **Date or Time**: *Ver sesión de series temporales*
+>   - **Feature generation**
+> - Models
+> - Validation
+> - Classification metrics
+> - [**Conclussion**](#conclussion)
 
 ---
 
+<h1 align="center">Feature preprocessing</h1>
 
-## Type of features
-- **Numerical**: Números enteros o decimales: Ej: *Edad*, *medidas*, *precios*, ...
-- **Categorical**:
-- **Ordinal**: Categorias con orden. No podemos asegurar que los intervalos son iguales. Ej: *Carnet de conducir*, *nivel de educación*, *tipo de ticket*
-- **Text**:
-- **Date (Time)**:
-- **Coordinates (Space)**:
-
-# Feature preprocessing
-
+## Categorical features
 
 ### Label Encoding
+👉 Use this encoding for **tree based models** (Random Forest, Gradient Boosting...)
+
 ![](img/label-encoding.png)
 
 ### One-hot Encoding
+👉 Use this encoding for **not tree based models** (Linear models, Neural Networks, Support Vector Machines...)
 ![](img/one-hot-encoding.png)
+
+## Numerical features
+Números enteros o decimales: Ej: *Edad*, *medidas*, *precios*, ...
+
+## Ordinal features
+Categorias con orden. No podemos asegurar que los intervalos son iguales. Ej: *Carnet de conducir*, *nivel de educación*, *tipo de ticket*
+
+
 
 ## Feature generation: CREATIVITY + DOMOAIN KNOWLEDGE
 
