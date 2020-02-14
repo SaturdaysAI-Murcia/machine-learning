@@ -1,4 +1,7 @@
-<h1 align="center">Tabular data </h1>
+![](img/header.png)
+
+<h1 align="center">Tabular data for classification</h1>
+<h3 align="center">Dataset: <a href="https://www.kaggle.com/c/titanic">Titanic</a></h3>
 
 
 ## Type of features
