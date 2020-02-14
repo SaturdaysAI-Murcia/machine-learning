@@ -3,6 +3,18 @@
 <h3 align="center">Dataset: <a href="https://www.kaggle.com/c/titanic">Titanic</a></h3>
 
 
+
+
+### Index
+
+- Feature preprocessing
+- Models
+- Validation
+- Classification metrics
+
+---
+
+
 ## Type of features
 - **Numerical**: Números enteros o decimales: Ej: *Edad*, *medidas*, *precios*, ...
 - **Categorical**:
