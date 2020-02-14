@@ -90,11 +90,11 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <table>
   <tr>
     <th width="40%" rowspan="5"><h2><a href="/4.%20NLP">4. Natual Language<br>Processing</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Movie reviews</a></h3></th>
-    <td width="40%"><a href="#">🛍️ Bag of words (CountVectorizer)</a></td>
+    <td width="40%"><a href="#">🛍️ Bag of words + Linear model</a></td>
     <td><a href="#"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="#">📋 Tf-idf (TfidfVectorizer)</a></td>
+    <td><a href="#">📋 Tf-idf + Linear model</a></td>
     <td><a href="#"><img src="img/colab.svg"/></a></td>
   </tr>  
   <tr>
@@ -113,21 +113,16 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 
 
 > ## Next Sessions:
-> 4. 🗄 Create your dataset
->    - 🌐 Web scrapping (Beautiful soup)
->    - 🖼 Google Images
-> 5. 🔤 Natual Language Processing
->    - 🛠 Feature engeeering for NLP
->    - 🛍️ Bag of words (CountVectorizer)
->    - 📋 Tf-idf (TfidfVectorizer)
->    - 💬 Word embeddings
-> 6. 🕐 Time series
+> 5. 🕐 Time series
 >    - 🛠 Feature engeeering for time
 >    - 🔮 ARIMA (Facebook Prophet)
-> 7. 👀 Vision
+> 6. 👀 Vision
 >    - 🖼 Understanding images
 >    - 🔍 Convolutional Neural Network (Fastai)
->    - Sound
+>    - 🔉 Sound
+> 7. 🗄 Create your dataset
+>    - 🌐 Web scrapping (Beautiful soup)
+>    - 🖼 Google Images
 
 
 # 🗓️ Agenda
