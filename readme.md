@@ -69,7 +69,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   <tr>
     <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌀 EDA: Dimensionality Reduction</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb"><img src="img/colab.svg"/></a></td>
-  </tr>  
+  </tr>
   <tr>
     <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📏 Linear Regression</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
@@ -77,7 +77,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   <tr>
     <td><a href="/2.%20Tabular%20data%20(clas)/2.3%20Random%20Forest.ipynb">✨ Clustering (K-Means, DBSCAN)</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.3%20Random%20Forest.ipynb"><img src="img/colab.svg"/></a></td>
-  </tr> 
+  </tr>
   <tr>
     <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb">🧠 Neural Network Regression</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb"><img src="img/colab.svg"/></a></td>
