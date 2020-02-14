@@ -62,25 +62,29 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <!-------------------------------------- Tabular: Regression -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a></h3></th>
-    <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA: Simple</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
+    <th width="40%" rowspan="6"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a></h3></th>
+    <td width="40%"><a href="3.%20Tabular%20data%20(regr)/3.1%20EDA.ipynb">📊 EDA: Simple</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb">🌀 EDA: Dimensionality Reduction</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.2%20Decission%20tree.ipynb"><img src="img/colab.svg"/></a></td>
+    <td><a href="/3.%20Tabular%20data%20(regr)/3.2%20EDA%20-%20Dim%20Red.ipynb">🌀 EDA: Dimensionality Reduction</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.2%20EDA%20-%20Dim%20Red.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📏 Linear Regression</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
+    <td width="40%"><a href="/3.%20Tabular%20data%20(regr)/3.3%20Linear%20regression.ipynb">📏 Linear Regression</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.3%20Linear%20regression.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+    <tr>
+    <td width="40%"><a href="/3.%20Tabular%20data%20(regr)/3.4%20Regularizated%20Linear%20Regression.ipynb">📏 Regularized Linear Regression</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.4%20Regularizated%20Linear%20Regression.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.3%20Random%20Forest.ipynb">✨ Clustering (K-Means, DBSCAN)</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.3%20Random%20Forest.ipynb"><img src="img/colab.svg"/></a></td>
+    <td width="40%"><a href="/3.%20Tabular%20data%20(regr)/3.5%20Polynomial%20regression.ipynb">📏 Polynomial Regression</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.5%20Polynomial%20regression.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb">🧠 Neural Network Regression</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.5%20Neural%20Network.ipynb"><img src="img/colab.svg"/></a></td>
+    <td><a href="/3.%20Tabular%20data%20(regr)/3.6%20Clustering.ipynb">✨ Clustering (K-Means, DBSCAN)</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.6%20Clustering.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
 </table>
 
