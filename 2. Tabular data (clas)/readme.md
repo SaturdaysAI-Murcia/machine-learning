@@ -1,5 +1,4 @@
-![](img/header.png)
-
+![](img/header.jpg)
 <h1 align="center">Tabular data for classification</h1>
 <h3 align="center">Dataset: <a href="https://www.kaggle.com/c/titanic">Titanic</a></h3>
 
