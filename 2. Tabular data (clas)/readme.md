@@ -20,9 +20,8 @@
 > - [**Conclussion**](#conclussion)
 
 
-<h1 align="center">Feature preprocessing</h1>
 
-## Categorical features
+# Categorical features
 
 ### Label Encoding
 👉 Use this encoding for **tree based models** (Random Forest, Gradient Boosting...)
