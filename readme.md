@@ -128,7 +128,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 >    - 🌐 Web scrapping (Beautiful soup)
 >    - 🖼 Pictures from Google Images
 >    - Ontologies (RDF databases, Semantic web, graph knowledge)
->      - FOA for social networks (twiter, facebooc)
+>      - FOA for social networks (twiter, facebook)
 >      - Open data
 
 
