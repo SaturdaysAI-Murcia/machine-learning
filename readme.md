@@ -127,7 +127,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 > 7. 🗄 Create your dataset
 >    - 🌐 Web scrapping (Beautiful soup)
 >    - 🖼 Pictures from Google Images
->    - Ontologies databases (semantic web)
+>    - Ontologies (RDF databases, Semantic web, graph knowledge)
 
 
 # 🗓️ Agenda
