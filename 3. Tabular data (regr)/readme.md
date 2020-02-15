@@ -4,6 +4,13 @@
 <h3 align="center">Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a></h3>
 
 
+
+# Models
+
+### Decission trees & Random Forest
+![](https://scikit-learn.org/stable/_images/sphx_glr_plot_adaboost_regression_001.png)
+
+
 # Regression metrics
 
 ### Simple metrics
