@@ -126,6 +126,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 >    - 🔉 Sound
 > 7. 🗄 Create your dataset
 >    - 🌐 Web scrapping (Beautiful soup)
+>    - [Elevate Your Webscraping With Splinter](https://towardsdatascience.com/elevate-your-webscraping-with-splinter-a926eee7f7d9)
 >    - 🖼 Pictures from Google Images
 >    - Ontologies (RDF databases, Semantic web, graph knowledge)
 >      - FOA for social networks (twiter, facebook)
