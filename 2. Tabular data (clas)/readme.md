@@ -23,7 +23,7 @@
 
 # Categorical features
 
-### Label Encoding
+### Ordinal Encoding (aka Label Encoding)
 👉 Use this encoding for **tree based models** (Random Forest, Gradient Boosting...)
 
 ![](img/label-encoding.png)
@@ -178,14 +178,12 @@ From that foundation, you can try Gradient Boosting and Neural Nets, and if they
 ##################################################### Imports
 import pandas            as pd
 import category_encoders as ce
-
 from sklearn import preprocessing
 from sklearn import impute
 from sklearn import compose
 from sklearn import pipeline
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble        import RandomForestClassifier
-
+from sklearn import model_selection 
+from sklearn import ensemble
 
 ##################################################### Numerical variables
 num_encoder   = preprocessing.StandardScaler
@@ -203,21 +201,21 @@ num_transformer = pipeline.Pipeline(steps=[
 ])
     
 ##################################################### Categorial variables
-cat_encoder   = ce.OrdinalEncoder()
-# cat_encoder = ce.OneHotEncoder()
-# cat_encoder = ce.BinaryEncoder()
-# cat_encoder = ce.TargetEncoder()
-# cat_encoder = ce.CatBoostEncoder()
-# cat_encoder = ce.BackwardDifferenceEncoder()
-# cat_encoder = ce.BaseNEncoder()
-# cat_encoder = ce.HashingEncoder()
-# cat_encoder = ce.HelmertEncoder()
-# cat_encoder = ce.JamesSteinEncoder()
-# cat_encoder = ce.LeaveOneOutEncoder()
-# cat_encoder = ce.MEstimateEncoder()
-# cat_encoder = ce.SumEncoder()
-# cat_encoder = ce.PolynomialEncoder()
-# cat_encoder = ce.WOEEncoder()
+cat_encoder   = ce.OrdinalEncoder
+# cat_encoder = ce.OneHotEncoder
+# cat_encoder = ce.BinaryEncoder
+# cat_encoder = ce.TargetEncoder
+# cat_encoder = ce.CatBoostEncoder
+# cat_encoder = ce.BackwardDifferenceEncoder
+# cat_encoder = ce.BaseNEncoder
+# cat_encoder = ce.HashingEncoder
+# cat_encoder = ce.HelmertEncoder
+# cat_encoder = ce.JamesSteinEncoder
+# cat_encoder = ce.LeaveOneOutEncoder
+# cat_encoder = ce.MEstimateEncoder
+# cat_encoder = ce.SumEncoder
+# cat_encoder = ce.PolynomialEncoder
+# cat_encoder = ce.WOEEncoder
 
 cat_transformer = pipeline.Pipeline(steps=[
     ('imputer', SimpleImputer(strategy='constant', fill_value='missing')),
@@ -231,14 +229,17 @@ preprocessor = compose.ColumnTransformer(transformers=[
 ])
 
 ##################################################### Train the model
-pipe = pipeline.Pipeline(steps=[
+
+model = ensemble.RandomForestClassifier(n_estimators=500)
+
+prepModel = pipeline.Pipeline(steps=[
     ('preprocessor', preprocessor),
-    ('classifier', RandomForestClassifier(n_estimators=500))
+    ('model',        model)
 ])
 
-model = pipe.fit(X_train, y_train)
+prepModel.fit(x_train, y_train)
 
 ##################################################### Evaluate the model
-y_pred = model.predict(X_test)
+y_pred = prepModel.predict(x_test)
 print(f1_score(y_test, y_pred, average='macro'))
 ```
