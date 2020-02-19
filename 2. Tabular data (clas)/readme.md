@@ -200,20 +200,23 @@ num_transformer = pipeline.Pipeline(steps=[
 ])
     
 ##################################################### Categorial variables
+# Unsupervised
 cat_encoder   = ce.OrdinalEncoder
 # cat_encoder = ce.OneHotEncoder
 # cat_encoder = ce.BinaryEncoder
-# cat_encoder = ce.TargetEncoder
-# cat_encoder = ce.CatBoostEncoder
-# cat_encoder = ce.BackwardDifferenceEncoder
 # cat_encoder = ce.BaseNEncoder
 # cat_encoder = ce.HashingEncoder
 # cat_encoder = ce.HelmertEncoder
+# cat_encoder = ce.SumEncoder
+# cat_encoder = ce.PolynomialEncoder
+# cat_encoder = ce.BackwardDifferenceEncoder
+
+# Supervised
+# cat_encoder = ce.TargetEncoder
+# cat_encoder = ce.CatBoostEncoder
 # cat_encoder = ce.JamesSteinEncoder
 # cat_encoder = ce.LeaveOneOutEncoder
 # cat_encoder = ce.MEstimateEncoder
-# cat_encoder = ce.SumEncoder
-# cat_encoder = ce.PolynomialEncoder
 # cat_encoder = ce.WOEEncoder
 
 cat_transformer = pipeline.Pipeline(steps=[
