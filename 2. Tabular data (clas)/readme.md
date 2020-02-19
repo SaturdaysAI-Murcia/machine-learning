@@ -76,6 +76,22 @@ In theory are just as fast to train as random forests, but in practice you will 
 <p align="center"><img width="50%" src="img/GradientBoosting.png" /></p>
 
 
+- 🔷: Increase parameter for overfit,  decrease for underfit.
+- 🔶: Increase parameter for underfit, decrease for overfit. (regularization)
+
+|                                      | XGBoost          | LightGBM         | Good values |
+|--------------------------------------|------------------|------------------|-------------|
+| 🔷 Number of trees                   | num_round        | num_iterations   | 100         |
+| 🔷 Max depth of the tree             | max_depth        | max_depth        | 7           |
+| 🔷 % of rows used to build the tree  | subsample        | bagging_fraction | 0.8         |
+| 🔷 % of feats used to build the tree | colsample_bytree | feature_fraction |             |
+| 🔷 Speed of training                 | eta              | learning_rate    |             |
+| 🔶                                   | min_child_wight  | min_data_in_leaf |             |
+| 🔶                                   | lambda           | lambda_l1        |             |
+| 🔶                                   | alpha            | lambda_l2        |             |
+
+
+
 ### Neural Network
 
 Take the longest time to train, and require extra preprocessing such as normalisation; this normalisation needs to be used at inference time as well. They can provide great results, and extrapolate well, but only if you are careful with your hyperparameters, and are careful to avoid overfitting.
