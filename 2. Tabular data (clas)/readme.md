@@ -79,7 +79,7 @@ In theory are just as fast to train as random forests, but in practice you will 
 - 🔷: Increase parameter for overfit,  decrease for underfit.
 - 🔶: Increase parameter for underfit, decrease for overfit. (regularization)
 
-|                                      | sklearn RandomForest | XGBoost          | LightGBM         | Good values |
+|                                      | sklearn RandomForest | XGBoost          | LightGBM         | Try |
 |--------------------------------------|----------------------|------------------|------------------|-------------|
 | 🔷 Number of trees                   | N_estimators         | num_round        | num_iterations   | 100         |
 | 🔷 Max depth of the tree             | max_depth            | max_depth        | max_depth        | 7           |
