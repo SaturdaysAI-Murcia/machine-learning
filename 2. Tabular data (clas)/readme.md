@@ -76,12 +76,11 @@ In theory are just as fast to train as random forests, but in practice you will 
 <p align="center"><img width="50%" src="img/GradientBoosting.png" /></p>
 
 
-- 🔷: Increase parameter for overfit,  decrease for underfit.
-- 🔶: Increase parameter for underfit, decrease for overfit. (regularization)
+
 
 |                                      | sklearn RandomForest | XGBoost          | LightGBM         | Try |
 |--------------------------------------|----------------------|------------------|------------------|-------------|
-| 🔷 Number of trees                   | N_estimators         | num_round        | num_iterations   | 100         |
+| 🔷 Number of trees                   | N_estimators         | num_round 💡     | num_iterations 💡| 100         |
 | 🔷 Max depth of the tree             | max_depth            | max_depth        | max_depth        | 7           |
 | 🔶 Min cases per final tree leaf     | min_samples_leaf     | min_child_weight | min_data_in_leaf |             |
 | 🔷 % of rows used to build the tree  |                      | subsample        | bagging_fraction | 0.8         |
@@ -91,6 +90,10 @@ In theory are just as fast to train as random forests, but in practice you will 
 | 🔶                                   | NOT IN FOREST        | alpha            | lambda_l2        |             |
 | Random seed                          | random_state         | seed             | _seed            |             |
 
+
+> - 🔷: Increase parameter for overfit,  decrease for underfit.
+> - 🔶: Increase parameter for underfit, decrease for overfit. (regularization)
+> - 💡: For Gradient Boosting maybe is better to do early stopping rather than set a fixed number of trees.
 
 ### Neural Network
 
