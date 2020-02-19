@@ -188,7 +188,6 @@ from sklearn import ensemble
 ##################################################### Numerical variables
 num_encoder   = preprocessing.StandardScaler
 # num_encoder = preprocessing.MinMaxScaler
-# num_encoder = preprocessing.minmax_scale
 # num_encoder = preprocessing.MaxAbsScaler
 # num_encoder = preprocessing.RobustScaler
 # num_encoder = preprocessing.Normalizer
