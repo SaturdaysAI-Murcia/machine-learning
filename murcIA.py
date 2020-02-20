@@ -1,10 +1,57 @@
-#################################### IMPORTS
 
+############# PUT
+############# %run ../murcIA.py
+############# ON TOP OF YOUR NOTEBOOK
+
+
+print("                           _____           ")
+print("                          |_   _|   /\     ")
+print("  _ __ ___  _   _ _ __ ___  | |    /  \    ")
+print(" | '_ ` _ \| | | | '__/ __| | |   / /\ \   ")
+print(" | | | | | | |_| | | | (__ _| |_ / ____ \  ")
+print(" |_| |_| |_|\__ _|_|  \___|_____/_/    \_\ ")
+print("                                           ")
+
+
+##################################################################### IMPORTS
+import platform
+import datetime
+import multiprocessing
 import numpy             as np
 import pandas            as pd
+import matplotlib        as mpl
 import seaborn           as sns
-import matplotlib.pyplot as plt
 import altair            as alt
+import sklearn           as skl
+import category_encoders as ce
+import xgboost           as xgb
+import lightgbm          as lgb
+import torch
+import fastai
+
+
+##################################################################### GENERAL INFO
+print("🕑 Hora:  ", datetime.datetime.now().strftime("%H:%M"))
+print("🗓️ Fecha: ", datetime.datetime.now().strftime("%d/%m/%Y"))
+print("💻 S.O.:  ", platform.system())
+print("🐍 Python:", platform.python_version())
+print("🔥 CPU:   ", multiprocessing.cpu_count(), "cores")
+print("🔥 GPU:   ", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No")
+print("")
+print("USING PACKAGES:")
+print("  Numpy:            ", np.__version__)
+print("  Pandas:           ", pd.__version__)
+print("  Matplotlib:       ", mpl.__version__)
+print("  Seaborn:          ", sns.__version__)
+print("  Altair:           ", alt.__version__)
+print("  Sklearn:          ", skl.__version__)
+print("  Category encoders:", ce.__version__)
+print("  XGBoost:          ", xgb.__version__)
+print("  LightGBM:         ", lgb.__version__)
+print("  Pytorch:          ", torch.__version__)
+print("  Fast.ai:          ", fastai.__version__)
+
+import matplotlib.pyplot as plt
 
 sns.set()
 
