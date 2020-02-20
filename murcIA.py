@@ -31,21 +31,23 @@ print("🔥 CPU:   ", multiprocessing.cpu_count(), "cores")
 print("🔥 GPU:   ", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No")
 print("🐍 Python:", platform.python_version())
 print("")
+print("PAQUETES:")
+print("")
 
 # Data libraries
-import numpy             as np
-import pandas            as pd
-import pandas_profiling  as pp
-import missingno         as msno
-import matplotlib        as mpl
+import numpy             as np; print("  Numpy (np):           ", np.__version__)
+import pandas            as pd; print("  Pandas (pd):          ", pd.__version__); pd.set_option('display.max_columns', 1000)
+import pandas_profiling  as pp; print("  Pandas Profiling (pp):", pp.__version__)
+import missingno         as ms; print("  Missingno (ms):       ", ms.__version__)
+import seaborn           as sb; print("  Seaborn (sb):         ", sb.__version__); sb.set()
+import altair            as at; print("  Altair (at):          ", at.__version__)
+import matplotlib        as mp; print("  Matplotlib (plt):     ", mp.__version__)
 import matplotlib.pyplot as plt
-import seaborn           as sb
-import altair            as alt
-
+import umap;                    print("  UMAP (umap):          ", umap.__version__)
 # ML libraries
-import sklearn     as skl
-import xgboost     as xgb
-import lightgbm    as lgb
+import sklearn           as skl;print("  Sklearn (skl):        ", skl.__version__)
+import xgboost           as xgb;print("  XGBoost (xgb):        ", xgb.__version__)
+import lightgbm          as lgb;print("  LightGBM (lgb):       ", lgb.__version__)
 from sklearn import preprocessing
 from sklearn import model_selection
 from sklearn import pipeline
@@ -56,32 +58,22 @@ from sklearn import metrics
 
 # DL libraries
 import fastai
+print("  Pytorch:              ", torch.__version__)
+print("  Fast.ai:              ", fastai.__version__)
+print("")
 
 # Packages still not used
-# import datatable   as dt
-# import catboost    as cgb
-# import h2o.automl  as ml_auto
-# import yellowbrick as ml_vis
-# import eli5        as ml_exp
+# import datatable         as dt
+# import catboost          as cgb
+# import h2o.automl        as ml_auto
+# import yellowbrick       as ml_vis
+# import eli5              as ml_exp
+# import arviz             as av
 # import category_encoders as ce
+# from fbprophet import Prophet
 
+##################################################################### FUNCIONES DISPONIBLES
 
-sb.set()
-
-##################################################################### GENERAL INFO
-print("PAQUETES:")
-print("")
-print("  Numpy (np):  ", np.__version__)
-print("  Pandas (pd): ", pd.__version__)
-print("  Seaborn (sb):", sb.__version__)
-print("  Altair (alt):", alt.__version__)
-print("  Matplotlib:  ", mpl.__version__)
-print("  Sklearn:     ", skl.__version__)
-print("  XGBoost:     ", xgb.__version__)
-print("  LightGBM:    ", lgb.__version__)
-print("  Pytorch:     ", torch.__version__)
-print("  Fast.ai:     ", fastai.__version__)
-print("")
 print("FUNCIONES DISPONIBLES:")
 print("")
 print("  df = reduce_mem_usage(df)")
