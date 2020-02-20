@@ -27,19 +27,21 @@ import xgboost    as xgb
 import lightgbm   as lgb
 import torch
 import fastai
+import matplotlib.pyplot as plt
 # import category_encoders as ce
 
-
+sns.set()
 
 ##################################################################### GENERAL INFO
 print("🕑 Hora:  ", datetime.datetime.now().strftime("%H:%M"))
 print("🗓️ Fecha: ", datetime.datetime.now().strftime("%d/%m/%Y"))
 print("💻 S.O.:  ", platform.system())
-print("🐍 Python:", platform.python_version())
 print("🔥 CPU:   ", multiprocessing.cpu_count(), "cores")
 print("🔥 GPU:   ", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No")
+print("🐍 Python:", platform.python_version())
 print("")
-print("USING PACKAGES:")
+print("PAQUETES:")
+print("")
 print("  Numpy:     ", np.__version__)
 print("  Pandas:    ", pd.__version__)
 print("  Matplotlib:", mpl.__version__)
@@ -51,10 +53,15 @@ print("  LightGBM:  ", lgb.__version__)
 print("  Pytorch:   ", torch.__version__)
 print("  Fast.ai:   ", fastai.__version__)
 #print("  Category encoders:", ce.__version__)
+print("")
+print("FUNCIONES DISPONIBLES:")
+print("")
+print("  plot_num(pandas_series)")
+print("  plot_ord(pandas_series)")
+print("  plot_cat(pandas_series)")
 
-import matplotlib.pyplot as plt
 
-sns.set()
+
 
 
 #################################### EDA
