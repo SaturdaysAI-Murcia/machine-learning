@@ -93,7 +93,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <!-------------------------------------- NLP -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2><a href="/4.%20NLP">4. Natual Language<br>Processing</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Movie reviews</a></h3></th>
+    <th width="40%" rowspan="5"><h2><a href="/4.%20NLP">4. Natual Language<br>Processing</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Movie reviews</a><br>Reto: <a href="https://www.kaggle.com/c/nlp-getting-started">Disaster tweets</a></h3></th>
     <td width="40%"><a href="#">🛍️ Bag of words + Linear model</a></td>
     <td><a href="#"><img src="img/colab.svg"/></a></td>
   </tr>
@@ -120,6 +120,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 > 5. 🕐 Time series
 >    - 🛠 Feature engeeering for time
 >    - 🔮 ARIMA (Facebook Prophet)
+>    - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 > 6. 👀 Vision
 >    - 🖼 Understanding images
 >    - 🔍 Convolutional Neural Network (Fastai)
