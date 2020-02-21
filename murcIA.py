@@ -192,13 +192,42 @@ def plot_cat(variable, title="", top=False, normalize=False, dropna=False, size=
 ##################################################################### PREPROCESSING
 
 
+##################################################### Numerical variables
+# num_encoder = preprocessing.StandardScaler
+# num_encoder = preprocessing.MinMaxScaler
+# num_encoder = preprocessing.MaxAbsScaler
+# num_encoder = preprocessing.RobustScaler
+# num_encoder = preprocessing.Normalizer
+# num_encoder = preprocessing.QuantileTransformer
+# num_encoder = preprocessing.PowerTransformer
+
+##################################################### Categorial variables
+
+# Unsupervised
+# cat_encoder = ce.OrdinalEncoder    or     preprocessing.OrdinalEncoder()
+# cat_encoder = ce.OneHotEncoder     or     preprocessing.OneHotEncoder()
+# cat_encoder = ce.BinaryEncoder
+# cat_encoder = ce.BaseNEncoder
+# cat_encoder = ce.HashingEncoder
+# cat_encoder = ce.HelmertEncoder
+# cat_encoder = ce.SumEncoder
+# cat_encoder = ce.PolynomialEncoder
+# cat_encoder = ce.BackwardDifferenceEncoder
+
+# Supervised
+# cat_encoder = ce.TargetEncoder
+# cat_encoder = ce.CatBoostEncoder
+# cat_encoder = ce.JamesSteinEncoder
+# cat_encoder = ce.LeaveOneOutEncoder
+# cat_encoder = ce.MEstimateEncoder
+# cat_encoder = ce.WOEEncoder
+
 def preprocessor(num_feats, cat_feats):
     num_preprocessing = pipeline.Pipeline(steps=[
         ('imputer', impute.SimpleImputer(strategy='median')),
         ('encoder', preprocessing.StandardScaler())
     ])
 
-    # preprocessing.OneHotEncoder()
     cat_preporcessing = pipeline.Pipeline(steps=[
         ('imputer', impute.SimpleImputer(strategy='constant', fill_value='missing')),
         ('encoder', preprocessing.OrdinalEncoder())
