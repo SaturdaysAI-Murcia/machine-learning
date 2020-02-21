@@ -82,7 +82,7 @@ In theory are just as fast to train as random forests, but in practice you will 
 
 
 
-|                                      | sklearn RandomForest | XGBoost          | LightGBM         | Try |
+|         | sklearn<br>Random Forest | XGBoost<br>Gradient Boosting | LightGBM<br>Gradient Boosting | Try |
 |--------------------------------------|:--------------------:|:----------------:|:----------------:|-------------|
 | 🔷 Number of trees                   | N_estimators         | num_round 💡     | num_iterations 💡| 100         |
 | 🔷 Max depth of the tree             | max_depth            | max_depth        | max_depth        | 7           |
