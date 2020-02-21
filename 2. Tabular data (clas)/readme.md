@@ -63,6 +63,10 @@ Categorias con orden. No podemos asegurar que los intervalos son iguales. Ej: *C
 
 We have two approaches to tabular modelling: decision tree ensembles, and neural networks. And we have mentioned two different decision tree ensembles: random forests, and gradient boosting. Each is very effective, but each also has compromises:
 
+### Decission Tree
+
+<p align="center"><img width="70%" src="img/Tree.png" /></p>
+
 ### Random Forest
 
 Are the easiest to train, because they are extremely resilient to hyperparameter choices, and require very little preprocessing. They are very fast to train, and should not overfit, if you have enough trees. But, they can be a little less accurate, especially if extrapolation is required, such as predicting future time periods
