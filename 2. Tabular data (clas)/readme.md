@@ -83,15 +83,15 @@ In theory are just as fast to train as random forests, but in practice you will 
 
 
 |                                      | sklearn RandomForest | XGBoost          | LightGBM         | Try |
-|--------------------------------------|----------------------|------------------|------------------|-------------|
+|--------------------------------------|:--------------------:|:----------------:|:----------------:|-------------|
 | 🔷 Number of trees                   | N_estimators         | num_round 💡     | num_iterations 💡| 100         |
 | 🔷 Max depth of the tree             | max_depth            | max_depth        | max_depth        | 7           |
 | 🔶 Min cases per final tree leaf     | min_samples_leaf     | min_child_weight | min_data_in_leaf |             |
-| 🔷 % of rows used to build the tree  |                      | subsample        | bagging_fraction | 0.8         |
+| 🔷 % of rows used to build the tree  | max_samples          | subsample        | bagging_fraction | 0.8         |
 | 🔷 % of feats used to build the tree | max_features         | colsample_bytree | feature_fraction |             |
 | 🔷 Speed of training                 | NOT IN FOREST        | eta              | learning_rate    |             |
-| 🔶                                   | NOT IN FOREST        | lambda           | lambda_l1        |             |
-| 🔶                                   | NOT IN FOREST        | alpha            | lambda_l2        |             |
+| 🔶 L1 regularization                 | NOT IN FOREST        | lambda           | lambda_l1        |             |
+| 🔶 L2 regularization                 | NOT IN FOREST        | alpha            | lambda_l2        |             |
 | Random seed                          | random_state         | seed             | _seed            |             |
 
 
@@ -177,78 +177,3 @@ From that foundation, you can try Gradient Boosting and Neural Nets, and if they
     </td>
   </tr>
 </table>
-
-
-# Example code
-
-```python
-##################################################### Imports
-import pandas            as pd
-import category_encoders as ce
-from sklearn import preprocessing
-from sklearn import impute
-from sklearn import compose
-from sklearn import pipeline
-from sklearn import model_selection 
-from sklearn import ensemble
-
-##################################################### Numerical variables
-num_encoder   = preprocessing.StandardScaler
-# num_encoder = preprocessing.MinMaxScaler
-# num_encoder = preprocessing.MaxAbsScaler
-# num_encoder = preprocessing.RobustScaler
-# num_encoder = preprocessing.Normalizer
-# num_encoder = preprocessing.QuantileTransformer
-# num_encoder = preprocessing.PowerTransformer
-
-num_transformer = pipeline.Pipeline(steps=[
-    ('imputer', impute.SimpleImputer(strategy='median')),
-    ('encoder', num_encoder())
-])
-    
-##################################################### Categorial variables
-# Unsupervised
-cat_encoder   = ce.OrdinalEncoder
-# cat_encoder = ce.OneHotEncoder
-# cat_encoder = ce.BinaryEncoder
-# cat_encoder = ce.BaseNEncoder
-# cat_encoder = ce.HashingEncoder
-# cat_encoder = ce.HelmertEncoder
-# cat_encoder = ce.SumEncoder
-# cat_encoder = ce.PolynomialEncoder
-# cat_encoder = ce.BackwardDifferenceEncoder
-
-# Supervised
-# cat_encoder = ce.TargetEncoder
-# cat_encoder = ce.CatBoostEncoder
-# cat_encoder = ce.JamesSteinEncoder
-# cat_encoder = ce.LeaveOneOutEncoder
-# cat_encoder = ce.MEstimateEncoder
-# cat_encoder = ce.WOEEncoder
-
-cat_transformer = pipeline.Pipeline(steps=[
-    ('imputer', SimpleImputer(strategy='constant', fill_value='missing')),
-    ('encoder', cat_encoder())
-])
-
-##################################################### Do the preprocessing
-preprocessor = compose.ColumnTransformer(transformers=[
-    ('num', numeric_transformer, numeric_features),
-    ('cat', categorical_transformer, categorical_features)
-])
-
-##################################################### Train the model
-
-model = ensemble.RandomForestClassifier(n_estimators=500)
-
-prepModel = pipeline.Pipeline(steps=[
-    ('preprocessor', preprocessor),
-    ('model',        model)
-])
-
-prepModel.fit(x_train, y_train)
-
-##################################################### Evaluate the model
-y_pred = prepModel.predict(x_test)
-print(f1_score(y_test, y_pred, average='macro'))
-```
