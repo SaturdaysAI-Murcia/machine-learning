@@ -120,6 +120,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 > 5. 🕐 Time series
 >    - 🛠 Feature engeeering for time
 >    - 🔮 ARIMA (Facebook Prophet)
+>    - Fractal analysis
 >    - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 > 6. 👀 Vision
 >    - 🖼 Understanding images
