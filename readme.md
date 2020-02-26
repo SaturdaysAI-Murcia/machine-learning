@@ -31,7 +31,9 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <!-------------------------------------- Tabular: Clasification -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="6"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/titanic">Titanic</a></h3></th>
+    <th width="40%" rowspan="6"><h2><a href="/2.%20Tabular%20data%20(clas)">2. Tabular data<br>for clasification</a></h2>
+      <h3>Dataset: <a href="https://www.kaggle.com/c/titanic">Titanic</a>
+      <br>Reto: <a href="https://www.kaggle.com/c/murcia-beer-challenge">Beer types</a> 🍺</h3></th>
     <td width="40%"><a href="2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb">📊 EDA: Simple</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/2.%20Tabular%20data%20(clas)/2.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
@@ -62,7 +64,9 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <!-------------------------------------- Tabular: Regression -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="6"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a></h3></th>
+    <th width="40%" rowspan="6"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2>
+      <h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a>
+      <br>Reto: <a href="https://www.kaggle.com/c/murcia-car-challenge">Car prices</a> 🚗</h3></th>
     <td width="40%"><a href="3.%20Tabular%20data%20(regr)/3.1%20EDA.ipynb">📊 EDA: Simple</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.1%20EDA.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
@@ -138,21 +142,21 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 
 # 🗓️ Agenda
 
-| Sesión |  Día   | Tema               | Charla                           | Reto                  |
-|:------:|--------|:------------------:|----------------------------------|-----------------------|
-| **1**  |  1 Feb | **AI Software**    | [Pepe Palma](/diapositivas/PepePalma.pdf) y Andrés Torrubia | |  
-| **2**  |  8 Feb | **Tabular data 1** | Projects brainstorming | [🍺 **Beer Challenge**](https://www.kaggle.com/c/murcia-beer-challenge) |
-| **3**  | 15 Feb | **Tabular data 2** |                                  | 🚗 Car pricing        |
-| **4**  | 22 Feb | **NLP**            |                                  | 🙃 Sentiment analysis |
-| **5**  | 29 Feb | **Time series**    |                                  | (aun por decidir)       |
-| **6**  |  7 Mar | **Vision**         |                                  | 📷 Marinera o bicicleta |
-| **7**  | 14 Mar | **Project**        |                                  |                       |
-| **8**  | 28 Mar | **Project**        | Biología y sanidad               |                       |
-| **9**  |  4 Abr | **Project**        |                                  |                       |
-| **10** | 25 Abr | **Project**        | Ética en la IA                   |                       |
-| **11** |  9 May | **Project**        |                                  |                       |
-| **12** | 16 May | **Project**        | Comunicación Oral                |                       |
-| **13** | 23 May | **Demo Day**       | Vosotros ;)                      |                       |
+| Sesión |  Día   | Tema                    | Charla                                                      |
+|:------:|--------|:-----------------------:|-------------------------------------------------------------|
+| **1**  |  1 Feb | **AI Software**         | [Pepe Palma](/diapositivas/PepePalma.pdf) (UM) y Andrés Torrubia (Kaggle) |   
+| **2**  |  8 Feb | **Tabular data (clas)** | Projects brainstorming            |
+| **3**  | 15 Feb | **Tabular data (regr)** | Ángel Esteba (IMIB)               |
+| **4**  | 22 Feb | **Time series**         | Antonio Vicente (AI Talentum)     |
+| **5**  | 29 Feb | **NLP**                 | Fernando (Vocali)                 |
+| **6**  |  7 Mar | **Vision**              |                                   |
+| **7**  | 14 Mar | **Project**             |                                   |
+| **8**  | 28 Mar | **Project**             | Biología y sanidad (UCAM)         |
+| **9**  |  4 Abr | **Project**             |                                   |
+| **10** | 25 Abr | **Project**             | Ética en la IA                    |
+| **11** |  9 May | **Project**             |                                   |
+| **12** | 16 May | **Project**             | Raquel Aullón (Comunicación Oral) |
+| **13** | 23 May | **Demo Day**            | Vosotros ;)                       |
 
 
 ## 📚 Best resources:
