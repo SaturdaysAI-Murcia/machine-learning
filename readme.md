@@ -171,18 +171,18 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 | Sesión |  Día   | Tema                    | Charla                                                      |
 |:------:|--------|:-----------------------:|-------------------------------------------------------------|
 | **1**  |  1 Feb | **AI Software**         | [Pepe Palma](/diapositivas/PepePalma.pdf) (UM) y Andrés Torrubia (Kaggle) |   
-| **2**  |  8 Feb | **Tabular data (clas)** | Projects brainstorming            |
-| **3**  | 15 Feb | **Tabular data (regr)** | Ángel Esteba (IMIB)               |
-| **4**  | 22 Feb | **Time series**         | Antonio Vicente (AI Talentum)     |
-| **5**  | 29 Feb | **NLP**                 | Fernando (Vocali)                 |
-| **6**  |  7 Mar | **Vision**              |                                   |
-| **7**  | 14 Mar | **Project**             |                                   |
-| **8**  | 28 Mar | **Project**             | Biología y sanidad (UCAM)         |
-| **9**  |  4 Abr | **Project**             |                                   |
-| **10** | 25 Abr | **Project**             | Ética en la IA                    |
-| **11** |  9 May | **Project**             |                                   |
-| **12** | 16 May | **Project**             | Raquel Aullón (Comunicación Oral) |
-| **13** | 23 May | **Demo Day**            | Vosotros ;)                       |
+| **2**  |  8 Feb | **Tabular data (clas)** | Projects brainstorming             |
+| **3**  | 15 Feb | **Tabular data (regr)** | Ángel Esteba (IMIB)                |
+| **4**  | 22 Feb | **Time series**         | Antonio Vicente (AI Talentum)      |
+| **5**  | 29 Feb | **NLP**                 | Fernando (Vocali) y Nicolás (UCAM) |
+| **6**  |  7 Mar | **Vision**              |                                    |
+| **7**  | 14 Mar | **Project**             |                                    |
+| **8**  | 28 Mar | **Project**             | Biología y sanidad (UCAM)          |
+| **9**  |  4 Abr | **Project**             |                                    |
+| **10** | 25 Abr | **Project**             | Ética en la IA                     |
+| **11** |  9 May | **Project**             |                                    |
+| **12** | 16 May | **Project**             | Raquel Aullón (Comunicación Oral)  |
+| **13** | 23 May | **Demo Day**            | Vosotros ;)                        |
 
 
 ## 📚 Best resources:
