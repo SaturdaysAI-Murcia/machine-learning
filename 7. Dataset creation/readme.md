@@ -5,7 +5,10 @@
 - [**UCI datasets**](https://archive.ics.uci.edu/ml/datasets.php)
 - 🌍 [**Data.world**](https://data.world)
 - 🇪🇺 [**European data portal**](https://www.europeandataportal.eu)
-
+- 🛰️**Satétite**
+  - **Sentinel 2**
+  - **Landsat 8**
+  - [**Planet**](https://www.planet.com)
 
 ## Ontologias
 - [DBpedia](https://wiki.dbpedia.org/)
