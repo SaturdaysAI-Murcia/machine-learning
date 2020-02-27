@@ -4,7 +4,10 @@
 - [**Google datasets**](https://datasetsearch.research.google.com)
 - [**UCI datasets**](https://archive.ics.uci.edu/ml/datasets.php)
 - 🌍 [**Data.world**](https://data.world)
-- 🇪🇺 [**European data portal**](https://www.europeandataportal.eu)
+- 🇪🇸 **España**
+  - [**Datos.gob.es**](https://datos.gob.es)
+- 🇪🇺 **Europa**
+  - [**European data portal**](https://www.europeandataportal.eu)
 - 🛰️ **Satétite**
   - **Sentinel 2**
   - **Landsat 8**
