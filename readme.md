@@ -64,7 +64,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <!-------------------------------------- Tabular: Regression -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="6"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2>
+    <th width="40%" rowspan="7"><h2><a href="/3.%20Tabular%20data%20(regr)">3. Tabular data<br>for regression</a></h2>
       <h3>Dataset: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House prices</a>
       <br>Reto: <a href="https://www.kaggle.com/c/murcia-car-challenge">Car prices</a> 🚗</h3></th>
     <td width="40%"><a href="3.%20Tabular%20data%20(regr)/3.1%20EDA.ipynb">📊 EDA: Simple</a></td>
@@ -85,6 +85,10 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   <tr>
     <td width="40%"><a href="/3.%20Tabular%20data%20(regr)/3.5%20Polynomial%20regression.ipynb">📏 Polynomial Regression</a></td>
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/3.5%20Polynomial%20regression.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/3.%20Tabular%20data%20(regr)/Fast.ai%20v1.ipynb">🧠 Neural Network (Fast.ai v1)</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/3.%20Tabular%20data%20(regr)/Fast.ai%20v1.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
     <td><a href="/3.%20Tabular%20data%20(regr)/3.6%20Clustering.ipynb">✨ Clustering (K-Means, DBSCAN)</a></td>
@@ -120,16 +124,38 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 </table>
 
 
+<!-------------------------------------- 👀 Vision -------------------------------------->
+<table>
+  <tr>
+    <th width="40%" rowspan="5"><h2><a href="/4.%20NLP">6. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
+    <td width="40%"><a href="#">🖼 Image classification (Fast.ai v1)</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="#">🖼 Image classification (Fast.ai v2)</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>  
+  <tr>
+    <td><a href="#">🔍 Image Localization (Fast.ai v1)</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="#">✂️ Image Segmentation (Fast.ai v1)</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="#">🔉 Sound classification</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr> 
+</table>
+
+
 > ## Next Sessions:
 > 5. 🕐 Time series
 >    - 🛠 Feature engeeering for time
 >    - 🔮 ARIMA (Facebook Prophet)
 >    - Fractal analysis
 >    - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
-> 6. 👀 Vision
->    - 🖼 Understanding images
->    - 🔍 Convolutional Neural Network (Fastai)
->    - 🔉 Sound
 > 7. 🗄 Create your dataset
 >    - 🌐 Web scrapping (Beautiful soup)
 >    - [Elevate Your Webscraping With Splinter](https://towardsdatascience.com/elevate-your-webscraping-with-splinter-a926eee7f7d9)
