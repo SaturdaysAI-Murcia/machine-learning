@@ -16,5 +16,5 @@
 ## Ontologías
 Las ontologías son Bases de Datos de grafos (parecidas a SQL). Mediante el lenguaje SPARQL se pueden hacer consultas a datos con formato RDF.
 
-- [**DBpedia**](https://wiki.dbpedia.org/): Base de datos de la wikipedia
+- [**DBpedia**](https://wiki.dbpedia.org/): Base de datos de wikipedia
 - [**FOAF**](http://www.foaf-project.org/): Friend Of A Friend
