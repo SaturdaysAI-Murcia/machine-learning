@@ -1,0 +1,12 @@
+# Fuentes de datos publicas
+
+- [**Kaggle datasets**](https://www.kaggle.com/datasets)
+- [**Google datasets**](https://datasetsearch.research.google.com)
+- [**UCI datasets**](https://archive.ics.uci.edu/ml/datasets.php)
+- 🌍 [**Data.world**](https://data.world)
+- 🇪🇺 [**European data portal**](https://www.europeandataportal.eu)
+
+
+## Ontologias
+- [DBpedia](https://wiki.dbpedia.org/)
+- [FOAF](http://www.foaf-project.org/)
