@@ -127,7 +127,7 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 <!-------------------------------------- 👀 Vision -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="5"><h2><a href="/4.%20NLP">6. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
+    <th width="40%" rowspan="5"><h2><a href="/6.%20Vision">6. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
     <td width="40%"><a href="#">🖼 Image classification (Fast.ai v1)</a></td>
     <td><a href="#"><img src="img/colab.svg"/></a></td>
   </tr>
