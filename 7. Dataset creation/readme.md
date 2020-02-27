@@ -1,4 +1,7 @@
-# Fuentes de datos publicas
+<h1 align="center">Dataset creation</h1>
+
+## Open data
+Fuentes de datos publicas.
 
 - [**Kaggle datasets**](https://www.kaggle.com/datasets)
 - [**Google datasets**](https://datasetsearch.research.google.com)
@@ -18,3 +21,7 @@ Las ontologías son Bases de Datos de grafos (parecidas a SQL). Mediante el leng
 
 - [**DBpedia**](https://wiki.dbpedia.org/): Base de datos de wikipedia
 - [**FOAF**](http://www.foaf-project.org/): Friend Of A Friend
+
+
+## Web scrapping
+Permite recoger datos disponibles en páginas web.
