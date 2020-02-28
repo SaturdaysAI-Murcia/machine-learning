@@ -1,4 +1,4 @@
-<h1 align="center">Dataset creation</h1>
+<h1 align="center">🗄 Dataset creation</h1>
 
 ## Open data
 Fuentes de datos publicas.
@@ -35,15 +35,17 @@ Fuentes de datos publicas.
 
 
 ## Ontologías
-Las ontologías son Bases de Datos de grafos (parecidas a SQL). Mediante el lenguaje SPARQL se pueden hacer consultas a datos con formato RDF.
+Las ontologías son Bases de Datos de grafos (parecidas a SQL). Mediante el lenguaje SPARQL se pueden hacer consultas a datos con formato RDF. Semantic web, graph knowledge...
 
 - [**DBpedia**](https://wiki.dbpedia.org/): Base de datos de wikipedia
 - [**FOAF**](http://www.foaf-project.org/): Friend Of A Friend
+- **OncoFarm**: Fármacos servicio murciano de salud
 
-
-## Web scrapping
+## 🌐 Web scrapping
 Permite recoger datos disponibles en páginas web.
 
 - [**BeautifulSoup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
 - [**Scrapy**](https://scrapy.org)
 - [**Selenium**](https://selenium-python.readthedocs.io)
+- [**splinter**](https://splinter.readthedocs.io)
+   - [Elevate Your Webscraping With Splinter](https://towardsdatascience.com/elevate-your-webscraping-with-splinter-a926eee7f7d9)
