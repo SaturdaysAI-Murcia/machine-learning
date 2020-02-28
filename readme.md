@@ -202,6 +202,12 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   - [Medium articles](https://medium.com/open-machine-learning-course)
 - **Coursera: [How to Win a Data Science Competition](https://www.coursera.org/learn/competitive-data-science)**
   - [Playlist en Youtube](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
+- **Other**:
+  - [**Torrubia repos**](https://github.com/antorsae)
+  - [**Albert's toolkit**](https://github.com/albertsl/toolkit)
+  - [**SaturdaysAI Itinerario ML**](https://github.com/SaturdaysAI/Itinerario_MachineLearning)
+  - [**Awesome ML repo**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+  - [**How to Rank 10% in Your First Kaggle Competition**](https://dnc1994.github.io/2016/05/rank-10-percent-in-first-kaggle-competition-en)
 - [**./missing-semester**](https://missing.csail.mit.edu): Curso sobre sistemas, no IA
 
 
