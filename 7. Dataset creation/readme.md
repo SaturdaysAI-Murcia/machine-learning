@@ -3,23 +3,26 @@
 ## Open data
 Fuentes de datos publicas.
 
-- [**Kaggle datasets**](https://www.kaggle.com/datasets)
-- [**Google datasets**](https://datasetsearch.research.google.com)
-- [**UCI datasets**](https://archive.ics.uci.edu/ml/datasets.php)
-- [**Microsoft Research Open Data**](https://msropendata.com)
-- [**Data.world**](https://data.world)
+- 🏢 Companies
+  - [**Kaggle datasets**](https://www.kaggle.com/datasets)
+  - [**Google datasets**](https://datasetsearch.research.google.com)
+  - [**Amazon datasets**](https://registry.opendata.aws)
+  - [**Microsoft datasets**](https://msropendata.com)
+  - [**UCI datasets**](https://archive.ics.uci.edu/ml/datasets.php)
 - 🌍 **Mundo**
+  - [**Awesome Gihub repo**](https://github.com/awesomedata/awesome-public-datasets)
+  - [**Data.world**](https://data.world)
   - [**Buscador georreferenciado de datos abiertos**](https://opendatainception.io)
   - [**Portal de datos abiertos de la FAO**](http://www.fao.org/faostat/en/#data)
 - 🇪🇺 **Europa**
   - [**European data portal**](https://www.europeandataportal.eu)
-  - [**Portal de datos abiertos de la UE**](http://data.europa.eu/euodp/es/data)
+  - [**Portal de datos abiertos de la UE**](http://data.europa.eu/euodp/es/data/dataset)
 - 🇪🇸 **España**
   - [**Datos.gob.es**](https://datos.gob.es)
   - [**Portal de datos abiertos Esri España**](http://opendata.esri.es)
 - Imágenes
+  - [**Visualdata**](https://www.visualdata.io)
   - [**Google repositorio imágenes etiquetadas**](https://storage.googleapis.com/openimages/web/index.html)
-  - [**Visión artificial**](https://www.visualdata.io)
   - 🛰️ **Satétite**
     - **Sentinel 2**
     - **Landsat 8**
