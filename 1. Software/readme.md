@@ -1,8 +1,13 @@
-<h1 align="center">Software for Artificial Intelligence</h1>
+<h1 align="center">1. Introduction</h1>
+
+## Machine Learning process
+
+<p align="center"><img width="30%" src="img/pipeline.png"/></p>
+
+## Software for Artificial Intelligence
 
 
-## 1. Interactive Eviroment
-
+### 1. Interactive Eviroment
 
 <table>
   <tr>
@@ -19,7 +24,7 @@
   </tr>
 </table>
 
-## 2. Data Manipulation Library
+### 2. Data Manipulation Library
 
 <table>
   <tr>
@@ -31,7 +36,8 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
 </table>
 
-## 3. Visualization Libraries
+
+### 3. Visualization Libraries
 
 <table>
   <tr>
@@ -52,7 +58,7 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
 </table>
 
-## 4. Machine Learning Libraries
+### 4. Machine Learning Libraries
 
 <table>
   <tr>
@@ -78,8 +84,8 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   
 </table>
 
-## 5. Deep Learning Libraries
 
+### 5. Deep Learning Libraries
 
 <table>
   <tr>
@@ -96,7 +102,7 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
   </tr>
 </table>
 
-## Others
+### Others
 
 - Web scrapping: Beautiful Soup
 - Process Mining: PM4Py
