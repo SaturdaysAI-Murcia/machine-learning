@@ -26,7 +26,7 @@ import torch
 
 print("🕑 Hora:  ", datetime.datetime.now().strftime("%H:%M"))
 print("🗓️ Fecha: ", datetime.datetime.now().strftime("%d/%m/%Y"))
-print("💻 S.O.:  ", platform.system())
+print("💻 S.O.:  ", platform.system(), platform.release())
 print("🔥 CPU:   ", multiprocessing.cpu_count(), "cores")
 print("🔥 GPU:   ", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No")
 print("🐍 Python:", platform.python_version())
@@ -36,7 +36,7 @@ print("")
 
 # Data libraries
 import numpy             as np; print("  Numpy (np):           ", np.__version__)
-import pandas            as pd; print("  Pandas (pd):          ", pd.__version__); pd.set_option('display.max_columns', 1000)
+import pandas            as pd; print("  Pandas (pd):          ", pd.__version__)
 import pandas_profiling  as pp; print("  Pandas Profiling (pp):", pp.__version__)
 import missingno         as ms; print("  Missingno (ms):       ", ms.__version__)
 import seaborn           as sb; print("  Seaborn (sb):         ", sb.__version__); sb.set()
@@ -55,6 +55,10 @@ from sklearn import ensemble
 from sklearn import impute
 from sklearn import compose
 from sklearn import metrics
+
+pd.set_option('display.max_rows',    500)
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width',       1000)
 
 # DL libraries
 import fastai
