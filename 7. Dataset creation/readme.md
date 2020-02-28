@@ -3,7 +3,7 @@
 ## Open data
 Fuentes de datos publicas.
 
-- 🏢 Companies
+- 🏢 **Companies**
   - [**Kaggle datasets**](https://www.kaggle.com/datasets)
   - [**Google datasets**](https://datasetsearch.research.google.com)
   - [**Amazon datasets**](https://registry.opendata.aws)
@@ -12,6 +12,7 @@ Fuentes de datos publicas.
 - 🌍 **Mundo**
   - [**Awesome Gihub repo**](https://github.com/awesomedata/awesome-public-datasets)
   - [**Data.world**](https://data.world)
+  - [**re3data**](https://www.re3data.org)
   - [**Buscador georreferenciado de datos abiertos**](https://opendatainception.io)
   - [**Portal de datos abiertos de la FAO**](http://www.fao.org/faostat/en/#data)
 - 🇪🇺 **Europa**
@@ -20,18 +21,17 @@ Fuentes de datos publicas.
 - 🇪🇸 **España**
   - [**Datos.gob.es**](https://datos.gob.es)
   - [**Portal de datos abiertos Esri España**](http://opendata.esri.es)
-- Imágenes
+- 🖼️ **Imágenes**
   - [**Visualdata**](https://www.visualdata.io)
-  - [**Google repositorio imágenes etiquetadas**](https://storage.googleapis.com/openimages/web/index.html)
-  - 🛰️ **Satétite**
-    - **Sentinel 2**
-    - **Landsat 8**
-    - [**Planet**](https://www.planet.com)
-- Audio
-  - [**Google repositorio de audio**](https://research.google.com/audioset)
-- [**Búsqueda de repositorios de datos abiertos**](https://www.re3data.org)
-- [**Datos financieros**](https://www.quandl.com)
-- [**Biometría**](http://openbiometrics.org)
+  - [**Google openimages**](https://storage.googleapis.com/openimages/web/index.html)
+- 🛰️ **Imagen Satétite**
+  - **Sentinel 2**
+  - **Landsat 8**
+  - [**Planet**](https://www.planet.com)
+- 🔉 **Audio**
+  - [**Google audioset**](https://research.google.com/audioset)
+- 💵 **Datos financieros**
+  - [**Quandl**](https://www.quandl.com)
 
 
 ## Ontologías
@@ -43,3 +43,7 @@ Las ontologías son Bases de Datos de grafos (parecidas a SQL). Mediante el leng
 
 ## Web scrapping
 Permite recoger datos disponibles en páginas web.
+
+- [**BeautifulSoup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
+- [**Scrapy**](https://scrapy.org)
+- [**Selenium**](https://selenium-python.readthedocs.io)
