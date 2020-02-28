@@ -1,9 +1,6 @@
 <p align="center"><img width="50%" src="img/title.png" /></p>
 
 
-# 🛠 Projects
-Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md).
-
 # 📒 Cuadernos
 
 <table>
@@ -123,6 +120,11 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   </tr> 
 </table>
 
+- 🕐 Time series
+   - 🛠 Feature engeeering for time
+   - 🔮 ARIMA (Facebook Prophet)
+   - Fractal analysis
+   - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 <!-------------------------------------- 👀 Vision -------------------------------------->
 <table>
@@ -149,21 +151,19 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   </tr> 
 </table>
 
+<!-------------------------------------- 🗄 Dataset creation -------------------------------------->
+<table>
+  <tr>
+    <th width="40%" rowspan="2"><h2><a href="/7.%20Dataset%20creation">7. Create your dataset</a></h2></th>
+    <td width="40%"><a href="#">🖼 Pictures from Google Images</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="#">🌐 Web scrapping (Beautiful soup)</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>  
+</table>
 
-> ## Next Sessions:
-> 5. 🕐 Time series
->    - 🛠 Feature engeeering for time
->    - 🔮 ARIMA (Facebook Prophet)
->    - Fractal analysis
->    - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
-> 7. 🗄 Create your dataset
->    - 🌐 Web scrapping (Beautiful soup)
->    - [Elevate Your Webscraping With Splinter](https://towardsdatascience.com/elevate-your-webscraping-with-splinter-a926eee7f7d9)
->    - 🖼 Pictures from Google Images
->    - Ontologies (RDF databases, Semantic web, graph knowledge)
->      - FOA for social networks (twiter, facebook)
->      - Open data
->      - OncoFarm (Fármacos servicio murciano de salud)
 
 
 # 🗓️ Agenda
@@ -184,6 +184,9 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
 | **12** | 16 May | **Project**             | Raquel Aullón (Comunicación Oral)  |
 | **13** | 23 May | **Demo Day**            | Vosotros ;)                        |
 
+
+# 🛠 Projects
+Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md).
 
 ## 📚 Best resources:
 - [**Kaggle learn**](https://www.kaggle.com/learn) (⌛: Quick)
