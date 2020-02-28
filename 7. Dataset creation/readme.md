@@ -15,7 +15,7 @@ Fuentes de datos publicas.
   - [**Buscador georreferenciado de datos abiertos**](https://opendatainception.io)
   - [**Portal de datos abiertos de la FAO**](http://www.fao.org/faostat/en/#data)
 - 🇪🇺 **Europa**
-  - [**European data portal**](https://www.europeandataportal.eu)
+  - [**European data portal**](https://www.europeandataportal.eu/data/datasets)
   - [**Portal de datos abiertos de la UE**](http://data.europa.eu/euodp/es/data/dataset)
 - 🇪🇸 **España**
   - [**Datos.gob.es**](https://datos.gob.es)
