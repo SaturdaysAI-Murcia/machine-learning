@@ -188,7 +188,7 @@
 # 🛠 Projects
 Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md).
 
-## 📚 Best resources:
+# 📚 Aprender más:
 - [**Kaggle learn**](https://www.kaggle.com/learn) (Dificultad: Fácil)
 - [**Fast.ai**](https://www.fast.ai)
    - [Machine Learning](http://course18.fast.ai/ml) (Dificultad: Fácil)
