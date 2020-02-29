@@ -32,6 +32,8 @@ Fuentes de datos publicas.
   - [**Google audioset**](https://research.google.com/audioset)
 - 💵 **Datos financieros**
   - [**Quandl**](https://www.quandl.com)
+- 🔤 NLP
+  - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
 
 ## Ontologías
