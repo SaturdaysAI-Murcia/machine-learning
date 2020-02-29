@@ -99,20 +99,20 @@
 <table>
   <tr>
     <th width="40%" rowspan="5"><h2><a href="/4.%20NLP">4. Natual Language<br>Processing</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Movie reviews</a><br>Reto: <a href="https://www.kaggle.com/c/nlp-getting-started">Disaster tweets</a></h3></th>
-    <td width="40%"><a href="#">🛍️ Bag of words + Linear model</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
+    <td width="40%"><a href="/4.%20NLP/4.1%20Bag%20of%20words%20Logistic%20Regression.ipynb">🛍️ Bag of words + Linear model</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.1%20Bag%20of%20words%20Logistic%20Regression.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="#">📋 Tf-idf + Linear model</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
+    <td><a href="/4.%20NLP/4.2%20Tf-Idf%20%2B%202grams.ipynb">📋 Tf-idf + Linear model</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.2%20Tf-Idf%20%2B%202grams.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>  
   <tr>
-    <td><a href="#">💬 Word embeddings</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
+    <td><a href="/4.%20NLP/4.%20NLP/4.3%20Word%20Embeddings.ipynb">💬 Word embeddings</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.%20NLP/4.3%20Word%20Embeddings.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
-    <td><a href="#">🔤 Recurrent Neural Networks</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
+    <td><a href="/4.%20NLP/4.4%20RNN%20with%20fastai2.ipynb">🔤 Recurrent Neural Networks</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.4%20RNN%20with%20fastai2.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
     <td><a href="#">🤖 Transformers</a></td>
