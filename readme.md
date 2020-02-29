@@ -107,8 +107,8 @@
     <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.2%20Tf-Idf%20%2B%202grams.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>  
   <tr>
-    <td><a href="/4.%20NLP/4.%20NLP/4.3%20Word%20Embeddings.ipynb">💬 Word embeddings</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.%20NLP/4.3%20Word%20Embeddings.ipynb"><img src="img/colab.svg"/></a></td>
+    <td><a href="/4.%20NLP/4.3%20Word%20Embeddings.ipynb">💬 Word embeddings</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/4.%20NLP/4.3%20Word%20Embeddings.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
     <td><a href="/4.%20NLP/4.4%20RNN%20with%20fastai2.ipynb">🔤 Recurrent Neural Networks</a></td>
