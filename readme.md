@@ -189,15 +189,15 @@
 Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.md).
 
 ## 📚 Best resources:
-- [**Kaggle learn**](https://www.kaggle.com/learn) (Easy)
+- [**Kaggle learn**](https://www.kaggle.com/learn) (Dificultad: Fácil)
 - [**Fast.ai**](https://www.fast.ai)
-   - [Machine Learning](http://course18.fast.ai/ml) (Easy)
-   - [Deep learning práctico](https://course.fast.ai) (Medium)
-   - [Deep learning avanzado](https://course.fast.ai/part2) (Advanced)
-   - [NLP](https://www.fast.ai/2019/07/08/fastai-nlp) (Medium)
-- [**Mlcourse.ai**](http://mlcourse.ai) (Medium-Advanced)
+   - [Machine Learning](http://course18.fast.ai/ml) (Dificultad: Fácil)
+   - [Deep learning práctico](https://course.fast.ai) (Dificultad: Media)
+   - [Deep learning avanzado](https://course.fast.ai/part2) (Dificultad: Avanzado)
+   - [NLP](https://www.fast.ai/2019/07/08/fastai-nlp) (Dificultad: Media)
+- [**Mlcourse.ai**](http://mlcourse.ai) (Dificultad: Media-Avanzado) (🇷🇺 Calidad rusa)
   - [Medium articles](https://medium.com/open-machine-learning-course)
-- **[Coursera: How to Win Kaggle Competitions](https://www.coursera.org/learn/competitive-data-science)** (Medium-Advanced)
+- **[Coursera: How to Win Kaggle Competitions](https://www.coursera.org/learn/competitive-data-science)** (Dificultad: Media-Avanzado) (🇷🇺 Calidad rusa)
   - [Playlist en Youtube](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
 - **[Standford winter 2019 courses](https://twitter.com/rickwierenga/status/1228432865878253572)**
   - CS221 Artificial Intelligence
