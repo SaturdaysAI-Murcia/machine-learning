@@ -199,6 +199,11 @@ Aqui se irán poniendo los proyectos asignados. [**Ver ideas**](/project-ideas.m
   - [Medium articles](https://medium.com/open-machine-learning-course)
 - **[Coursera: How to Win Kaggle Competitions](https://www.coursera.org/learn/competitive-data-science)** (Medium-Advanced)
   - [Playlist en Youtube](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
+- **[Standford winter 2019 courses](https://twitter.com/rickwierenga/status/1228432865878253572)**
+  - CS221 Artificial Intelligence
+  - CS229 Machine Learning
+  - CS230 Deep Learning
+  - [CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - **Other**:
   - [**Torrubia repos**](https://github.com/antorsae)
   - [**Albert's toolkit**](https://github.com/albertsl/toolkit)
