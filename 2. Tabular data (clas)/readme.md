@@ -178,3 +178,19 @@ From that foundation, you can try Gradient Boosting and Neural Nets, and if they
     </td>
   </tr>
 </table>
+
+
+### Box-Cox Transformation
+A Box Cox transformation is a generic way to transform non-normal variables into a **normal shape**.
+
+| Lambda value (λ) | Transformed data |
+|------------------|------------------|
+| -3               | Y⁻³ = 1/Y³       |
+| -2               | Y⁻² = 1/Y²       |
+| -1               | Y⁻¹ = 1/Y¹       |
+| -0.5             | Y⁻⁰·⁵ = 1/√Y      |
+| 0                | log(Y)           |
+| 0.5              | Y⁰·⁵ = √Y         |
+| 1                | Y¹               |
+| 2                | Y²               |
+| 3                | Y³               |
