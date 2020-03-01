@@ -171,6 +171,7 @@ From that foundation, you can try Gradient Boosting and Neural Nets, and if they
           <ul>
             <li>np.log(1+x)</li>
             <li>np.sqrt(x+2/3)</li>
+            <li>Box-Cox transform</li>
           </ul>
         </li>
       </ul>
