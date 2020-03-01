@@ -180,7 +180,7 @@ From that foundation, you can try Gradient Boosting and Neural Nets, and if they
 </table>
 
 
-### Box-Cox Transformation
+### [Map data to a normal distribution](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html): Box-Cox
 A Box Cox transformation is a generic way to transform non-normal variables into a **normal shape**.
 
 | Lambda value (λ) | Transformed data |
