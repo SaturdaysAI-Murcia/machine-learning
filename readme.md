@@ -175,7 +175,7 @@
 | **3**  | 15 Feb | **Tabular data (regr)** | Ángel Esteba (IMIB)                |
 | **4**  | 22 Feb | **Time series**         | Antonio Vicente (AI Talentum)      |
 | **5**  | 29 Feb | **NLP**                 | Fernando (Vocali) y Nicolás (UCAM) |
-| **6**  |  7 Mar | **Vision**              | (Biyectiva)                        |
+| **6**  |  7 Mar | **Vision**              |                                    |
 | **7**  | 14 Mar | **Project**             | Alberto Granero  (Telefonica)      |
 | **8**  | 28 Mar | **Project**             | Biología y sanidad (UCAM)          |
 | **9**  |  4 Abr | **Project**             | Alberto Valera (Bankiter)          |
