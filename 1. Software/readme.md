@@ -4,6 +4,8 @@
 
 <p align="center"><img width="30%" src="img/pipeline.png"/></p>
 
+<p align="center"><img width="70%" src="img/models.png"/></p>
+
 ## Software for Artificial Intelligence
 
 
@@ -81,7 +83,10 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
     <th><a href="http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html"><img src="img/H2O.png"/></a></th>
     <td>H2o.ai es un framework de Machine Learning que implementa una función muy interesante llamada AutoML. AutoML es una abstracción que nos permite olvidarnos de elegir nosotros el mejor modelo para nuestros datos, ya que lo hace automáticamente.</td>
   </tr>
-  
+  <tr>
+    <th><a href="https://github.com/aksnzhy/xlearn"><img src="img/XLearn.png"/></a></th>
+    <td>xLearn is a high performance, easy-to-use, and scalable machine learning package that contains linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM), all of which can be used to solve large-scale machine learning problems.</td>
+  </tr>
 </table>
 
 
