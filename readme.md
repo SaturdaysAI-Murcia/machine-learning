@@ -125,6 +125,10 @@
    - 🔮 ARIMA (Facebook Prophet)
    - Fractal analysis
    - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+- ✨ Recommenders
+  - Recommender systems
+  - Next Product to Buy (NPtB)
+  - Collaborative Filtering
 
 <!-------------------------------------- 👀 Vision -------------------------------------->
 <table>
