@@ -76,6 +76,10 @@ Pandas permiten leer y escribir datos en diferentes formatos (CSV, Excel, SQL,..
     <td>LightGBM es otra implementación de Gradient boosting de Microsoft que deberíamos tener en cuenta ya que también ha obtenido muy buenos resultados en términos de precisión y rendimiento.</td>
   </tr>
   <tr>
+    <th><a href="https://catboost.ai"><img src="img/CatBoost.png"/></a></th>
+    <td>CatBoost es otra implementación de Gradient boosting especializada para trabajar con datasets mayormente de variables categóricas.</td>
+  </tr>
+  <tr>
     <th><a href="https://facebook.github.io/prophet"><img src="img/Prophet.png"/></a></th>
     <td>Facebook Prophet es una herramienta para predicción de series temporales. Esta hearramienta tiene en cuenta factores como la estacionlaidad, tendencias, etc.</td>
   </tr>
