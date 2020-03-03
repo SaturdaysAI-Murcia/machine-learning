@@ -179,7 +179,7 @@
 | **7**  | 14 Mar | **Project**             | Biyectiva                          |
 | **8**  | 28 Mar | **Project**             | Biología y sanidad (UCAM)          |
 | **9**  |  4 Abr | **Project**             | Alberto Valera (Bankiter)          |
-| **10** | 25 Abr | **Project**             | Ética en la IA                     |
+| **10** | 25 Abr | **Project**             | Antonio Terrones (Ética en la IA)  |
 | **11** |  9 May | **Project**             | Alberto Granero  (Telefonica)      |
 | **12** | 16 May | **Project**             | Raquel Aullón (Comunicación Oral)  |
 | **13** | 23 May | **Demo Day**            | Vosotros ;)                        |
