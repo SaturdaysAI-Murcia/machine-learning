@@ -3,6 +3,7 @@
 # Installation on Windows 10
 
 ### Install Python 3.8 (64 bits)
+[Página de descarga oficial](https://www.python.org/downloads/windows/). Fijarse que sea de 64 bits!
 
 ### Install Python packages
 
