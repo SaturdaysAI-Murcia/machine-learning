@@ -1,5 +1,19 @@
 <h1 align="center">1. Introduction</h1>
 
+# Installation on Windows 10
+
+### Install Python 3.8 (64 bits)
+
+### Install Python packages
+
+```bash
+pip install -U pip
+pip install -U jupyter
+pip install -U pandas
+pip install -U scikit-learn
+pip install -U lightgbm
+```
+
 ## Machine Learning process
 
 <p align="center"><img width="30%" src="img/pipeline.png"/></p>
