@@ -1,22 +1,18 @@
 <h1 align="center">1. Introduction</h1>
 
-# Installation on Windows 10
+## Instalación en Windows 10
 
-### Install Python 3.8 (64 bits)
-[Página de descarga oficial](https://www.python.org/downloads/windows/). Fijarse que sea de 64 bits y activar path en lainstalación.
-
-### Install Python packages
-
-```bash
-pip install -U pip
-pip install -U jupyter
-pip install -U pandas
-pip install -U seaborn
-pip install -U altair
-pip install -U scikit-learn
-pip install -U lightgbm
-pip install -U catboost
-```
+1. Instalar `git` de la [página oficial](https://git-scm.com/download)
+2. Instalar `python` 3.8 de la [página oficial](https://www.python.org/downloads/windows/). Fijarse que sea de 64 bits, que instalamos también `pip`, y activar path en lainstalación.
+3. Instalar paquetes de ciencia de datos (`-U` sirve para instalar la última versión):
+   - `pip install -U pip`
+   - `pip install -U jupyter`
+   - `pip install -U pandas`
+   - `pip install -U seaborn`
+   - `pip install -U altair`
+   - `pip install -U scikit-learn`
+   - `pip install -U lightgbm`
+   - `pip install -U catboost`
 
 ## Machine Learning process
 
