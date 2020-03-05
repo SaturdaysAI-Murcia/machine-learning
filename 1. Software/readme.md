@@ -17,6 +17,7 @@
    - `pip install -U catboost`
 4. OPIONAL: Instalar paquetes de **Deep Learning** (sólo si tienes GPU Nvidia en tu equipo):
    1. Instalar CUDA desde la [página oficial](https://developer.nvidia.com/cuda-downloads)
+      - Comprobar instación correcta con `nvcc --version`
    2. Instalar cuDNN desde la [página oficial](https://developer.nvidia.com/rdp/cudnn-download)
    3. Instalar paquetes de Deep Learning:
       - Keras
