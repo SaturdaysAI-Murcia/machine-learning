@@ -6,7 +6,7 @@
    - Elegir un nombre: `git config --global user.name "John Doe"`
    - Elegir un correo: `git config --global user.email johndoe@example.com`
 2. Instalar `python` 3.8 de la [página oficial](https://www.python.org/downloads/windows/). Fijarse que sea de 64 bits, que instalamos también `pip`, y activar path en lainstalación.
-3. Instalar paquetes de ciencia de datos (`-U` sirve para instalar la última versión):
+3. Instalar paquetes de Ciencia de Datos y Machine Learning (`-U` sirve para instalar la última versión):
    - `pip install -U pip`
    - `pip install -U jupyter`
    - `pip install -U pandas`
@@ -15,6 +15,13 @@
    - `pip install -U scikit-learn`
    - `pip install -U lightgbm`
    - `pip install -U catboost`
+4. OPIONAL: Instalar paquetes de Deep Learning (sólo si tines GPU Nvidia en tu equipo):
+   1. Instalar CUDA desde la [página oficial](https://developer.nvidia.com/cuda-downloads)
+   2. Instalar cuDNN desde la [página oficial](https://developer.nvidia.com/rdp/cudnn-download)
+   3. Instalar paquetes de Deep Learning:
+      - Keras
+      - Pytorch
+      - Fast.ai
 
 ## Machine Learning process
 
