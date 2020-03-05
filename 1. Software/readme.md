@@ -3,6 +3,8 @@
 ## Instalación en Windows 10
 
 1. Instalar `git` de la [página oficial](https://git-scm.com/download)
+   - Elegir un nombre: `git config --global user.name "John Doe"`
+   - Elegir un nombre: `git config --global user.email johndoe@example.com`
 2. Instalar `python` 3.8 de la [página oficial](https://www.python.org/downloads/windows/). Fijarse que sea de 64 bits, que instalamos también `pip`, y activar path en lainstalación.
 3. Instalar paquetes de ciencia de datos (`-U` sirve para instalar la última versión):
    - `pip install -U pip`
