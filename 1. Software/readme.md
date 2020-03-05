@@ -11,8 +11,11 @@
 pip install -U pip
 pip install -U jupyter
 pip install -U pandas
+pip install -U seaborn
+pip install -U altair
 pip install -U scikit-learn
 pip install -U lightgbm
+pip install -U catboost
 ```
 
 ## Machine Learning process
