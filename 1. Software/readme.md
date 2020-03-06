@@ -17,7 +17,7 @@
    - `pip install -U catboost`
 4. OPIONAL: Instalar paquetes de **Deep Learning** (sólo si tienes GPU Nvidia en tu equipo):
    1. Instalar **CUDA** desde la [página oficial](https://developer.nvidia.com/cuda-downloads)
-      - CUDA 10.2 no es soportado por tensorflow y pytorch así que instalar [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base)
+      - CUDA 10.2 no es soportado por [tensorflow](https://www.tensorflow.org/install/gpu#software_requirements) y pytorch así que instalar [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base)
       - Comprobar instación correcta con `nvcc --version`
    2. Instalar **cuDNN** desde la [página oficial](https://developer.nvidia.com/rdp/cudnn-download)
       - Descomprimir el archivo cuDNN
