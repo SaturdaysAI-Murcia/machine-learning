@@ -120,6 +120,30 @@
   </tr> 
 </table>
 
+
+
+<!-------------------------------------- 👀 Vision -------------------------------------->
+<table>
+  <tr>
+    <th width="40%" rowspan="4"><h2><a href="/6.%20Vision">5. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
+    <td width="40%"><a href="/6.%20Vision/Classification%20-%20Fastai%20v1.ipynb">🖼 Image classification (Fast.ai v1)</a></td><td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/6.%20Vision/Classification%20-%20Fastai%20v1.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/6.%20Vision/Localization%20-%20Fastai%20v1.ipynb">🔍 Image Localization (Fast.ai v1)</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/6.%20Vision/Localization%20-%20Fastai%20v1.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/6.%20Vision/Segmentation%20-%20Fastai%20v1.ipynb">✂️ Image Segmentation (Fast.ai v1)</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/6.%20Vision/Segmentation%20-%20Fastai%20v1.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <!--<tr>
+    <td><a href="#">🔉 Sound classification</a></td>
+    <td><a href="#"><img src="img/colab.svg"/></a></td>
+  </tr>-->
+</table>
+
+
+
 - 🕐 Time series
    - 🛠 Feature engeeering for time
    - 🔮 ARIMA (Facebook Prophet)
@@ -130,26 +154,6 @@
   - Next Product to Buy (NPtB)
   - Collaborative Filtering
 
-<!-------------------------------------- 👀 Vision -------------------------------------->
-<table>
-  <tr>
-    <th width="40%" rowspan="4"><h2><a href="/6.%20Vision">6. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
-    <td width="40%"><a href="#">🖼 Image classification (Fast.ai v1)</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="/6.%20Vision/Localization%20-%20Fastai%20v1.ipynb">🔍 Image Localization (Fast.ai v1)</a></td>
-    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/6.%20Vision/Localization%20-%20Fastai%20v1.ipynb"><img src="img/colab.svg"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="#">✂️ Image Segmentation (Fast.ai v1)</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="#">🔉 Sound classification</a></td>
-    <td><a href="#"><img src="img/colab.svg"/></a></td>
-  </tr> 
-</table>
 
 <!-------------------------------------- 🗄 Dataset creation -------------------------------------->
 <table>
