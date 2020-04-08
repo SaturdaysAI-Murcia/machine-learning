@@ -7,4 +7,4 @@
 > - 🔮 ARIMA (Facebook Prophet)
 > - ARIMAX
 > - Fractal Analysis
-> - [Read this article (caution with Random Forest)](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631)
+> - Read this article: [Caution with Random Forest](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631)
