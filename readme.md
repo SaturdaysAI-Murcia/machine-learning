@@ -121,11 +121,28 @@
 </table>
 
 
+<!-------------------------------------- 🕐 5. Time series -------------------------------------->
+<table>
+  <tr>
+    <th width="40%" rowspan="5"><h2><a href="/5.%20Time%20series">5. Time series 🕐</a></h2><h3>Dataset: <a href="https://www.kaggle.com/c/competitive-data-science-predict-future-sales">Future sales</a><br>Reto: <a href="...">...</a></h3></th>
+    <td width="40%"><a href="/5.%20Time%20Series/5.1%20TimeSeries%20with%20Prophet%20-%20Walmart.ipynb">5.1 Prophet: Walmart</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/5.%20Time%20Series/5.1%20TimeSeries%20with%20Prophet%20-%20Walmart.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/5.%20Time%20Series/5.2%20TimeSeries%20with%20Prophet%20-%20Medium%20posts.ipynb">5.2 Prophet: Medium posts</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/5.%20Time%20Series/5.2%20TimeSeries%20with%20Prophet%20-%20Medium%20posts.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/5.%20Time%20Series/5.3%20Ejercicio%20en%20Kaggle.ipynb">5.3 Ejercicio en Kaggle</a></td>
+    <td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/5.%20Time%20Series/5.3%20Ejercicio%20en%20Kaggle.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+</table>
+
 
 <!-------------------------------------- 👀 Vision -------------------------------------->
 <table>
   <tr>
-    <th width="40%" rowspan="4"><h2><a href="/6.%20Vision">5. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
+    <th width="40%" rowspan="4"><h2><a href="/6.%20Vision">6. Vision</a></h2><h3>Dataset: <a href="#">...</a><br>Reto: <a href="#">...</a></h3></th>
     <td width="40%"><a href="/6.%20Vision/Classification%20-%20Fastai%20v1.ipynb">🖼 Image classification (Fast.ai v1)</a></td><td><a href="https://colab.research.google.com/github/SaturdaysAI-Murcia/machine-learning/blob/master/6.%20Vision/Classification%20-%20Fastai%20v1.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
   <tr>
@@ -148,7 +165,6 @@
    - 🛠 Feature engeeering for time
    - 🔮 ARIMA (Facebook Prophet)
    - Fractal analysis
-   - Dataset: [**Predict future sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 - ✨ Recommenders
   - Recommender systems
   - Next Product to Buy (NPtB)
